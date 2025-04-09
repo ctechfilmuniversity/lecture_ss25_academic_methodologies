@@ -10,6 +10,15 @@ Prof. Dr. Lena Gieseke \| l.gieseke@filmuniversitaet.de \| Film University Babel
 
 * [Academic Methodologies](#academic-methodologies)
     * [Abstracts](#abstracts)
+        * [SS24](#ss24)
+            * [A Review on AI’s Environmental Impact and the Role of Communication](#a-review-on-ais-environmental-impact-and-the-role-of-communication)
+            * [Datamorphism: Exploring Artistic Perspectives on the Other-Than-Human World Beyond Anthropomorphism](#datamorphism-exploring-artistic-perspectives-on-the-other-than-human-world-beyond-anthropomorphism)
+            * [Current Technologies Enabling Communication for ALS Patients: An overview and recommendations for future research](#current-technologies-enabling-communication-for-als-patients-an-overview-and-recommendations-for-future-research)
+            * [Formal versus Informal Mindfulness Practice: Exploring the Technological Gap and Future Research Directions](#formal-versus-informal-mindfulness-practice-exploring-the-technological-gap-and-future-research-directions)
+            * [An evaluation of human-plant interaction approaches for artistic live performances](#an-evaluation-of-human-plant-interaction-approaches-for-artistic-live-performances)
+            * [Beyond Eye Candy: Real Time Visual Effects in Video Games Seen Through the Lens of UX Principles](#beyond-eye-candy-real-time-visual-effects-in-video-games-seen-through-the-lens-of-ux-principles)
+            * [Beyond Human Motion: Exploring Advanced Techniques and Challenges in Animal Motion Capture for Cinematography](#beyond-human-motion-exploring-advanced-techniques-and-challenges-in-animal-motion-capture-for-cinematography)
+            * [Creative and Technical Benefits of Previsualization in Virtual Film Production: A Comparative Case Study of Videomatics for In-Camera Visual Effects](#creative-and-technical-benefits-of-previsualization-in-virtual-film-production-a-comparative-case-study-of-videomatics-for-in-camera-visual-effects)
         * [SS23](#ss23)
             * [Visualizing Aurora: Exploring the Theoretical Blueprint and Creative Potential of the Aurora Visual Synthesizer](#visualizing-aurora-exploring-the-theoretical-blueprint-and-creative-potential-of-the-aurora-visual-synthesizer)
             * [Apart, but Connected: Digital Performance as a Space of Collective Resonance](#apart-but-connected-digital-performance-as-a-space-of-collective-resonance)
@@ -51,6 +60,59 @@ Prof. Dr. Lena Gieseke \| l.gieseke@filmuniversitaet.de \| Film University Babel
             * [Shader boom in computational art: Creative applications, advantages, and shortcomings](#shader-boom-in-computational-art-creative-applications-advantages-and-shortcomings)
 
 ## Abstracts
+
+### SS24
+
+#### A Review on AI’s Environmental Impact and the Role of Communication
+
+##### Anna Ferro
+
+Artificial Intelligence (AI) systems are reshaping industry and everyday life, from autonomous driving technologies to turning text into images. But their transformative power is raising concerns about their environmental footprint. These systems consume vast computing resources, contributing to global warming through high carbon emissions, energy consumption, water use and the extraction of rare materials. Researchers are focusing on AI’s sustainability in environmental, social and economic dimensions, highlighting the need for clear assessments. This paper examines key factors such as carbon footprint, energy consumption, water usage, and resource efficiency throughout the AI lifecycle, stressing the need for sustainable practices. It also addresses the challenge of raising public awareness and ensuring transparency. The study emphasises the need to strike a balance between innovation and sustainability in the development of AI.
+
+#### Datamorphism: Exploring Artistic Perspectives on the Other-Than-Human World Beyond Anthropomorphism
+
+##### Moritz Alan Huson
+
+Limited comprehension of other-than-human beings often leads to the anthropomorphisation of these entities, such as animals, in fictional narratives. This paper introduces the concept of "datamorphisation" as an alternative perspective. Datamorphi- sation involves integrating real-world data into the representation of non-human entities, offering a new framework for un- derstanding them. The paper outlines the criteria that define datamorphisation and examines an exemplary artwork featuring data-driven representations of non-human beings. The analysis demonstrates that datamorphisation both simplifies and broad- ens our understanding of these entities, providing a counterbalance to anthropomorphism.
+
+#### Current Technologies Enabling Communication for ALS Patients: An overview and recommendations for future research
+
+##### Linda Maas
+
+Amyotrophic Lateral Sclerosis (ALS) progressively impairs communication, profoundly affecting patients’ autonomy and qual- ity of life. As the disease advances, traditional communication methods become inadequate, necessitating the development of advanced assistive technologies. This paper provides a comprehensive overview of current technologies enabling communi- cation for ALS patients, including eye-tracking systems, brain-computer interfaces (BCIs), and speech synthesis. We give an overview of the current advances of these technologies, offering recommendations for enhancing accessibility, usability, and personalization. Our findings suggest that while significant progress has been made, further innovation is required to address the challenges posed by ALS, particularly in developing affordable and adaptable solutions that can evolve with the patient’s condition.
+
+#### Formal versus Informal Mindfulness Practice: Exploring the Technological Gap and Future Research Directions
+
+##### Marta Tung Tung Pang
+
+Mindfulness, a traditional practice rooted in Buddhism, has gained significant attention in research, education, psychology, and technology, with numerous studies demonstrating its benefits for overall well-being. While mindfulness is often associated with formal practices like sitting meditation, it includes much more. Plum Village, a Buddhist monastery founded by Thich Nhat Hanh, the father of mindfulness, emphasises integrating mindfulness into every aspect of daily life, such as walking, washing dishes, listening, and group sharing. Although technologies like mobile apps, web-based tools, and Virtual Reality (VR) have been developed to support mindfulness, they primarily focus on sitting meditation and breath awareness, neglecting the full spectrum of mindfulness practices. This paper reviews the traditional elements missing in current mindfulness technologies, identifying key trends and gaps. We provide an overview of these missing elements and propose future research directions for developing more well-rounded technological mindfulness tools.
+
+#### An evaluation of human-plant interaction approaches for artistic live performances
+
+##### Lisa Passing
+
+The increasing effects of the climate crisis has shifted society’s focus towards nature and its relationship to it. Plants in par- ticular are fundamental part of nature but our understanding of them is still limited. The field of Human-Plant Interaction, as part of HCI, searches to broaden communication with plants through technology. However, we are in need of intermediaries like artists who use these technologies and foster empathy with nature within society. In order to support artists’ explorations in this area, this paper presents an overview and evaluation of common approaches. For this I focused on the context of live artistic performances, where the interaction with a living plant occurs in the moment through either performers or audience and is immediately perceivable. Through this, I hope to lower the barrier for artists to incorporate plants into their work and expand the boundaries of what has been done so far.
+
+#### Beyond Eye Candy: Real Time Visual Effects in Video Games Seen Through the Lens of UX Principles
+
+##### Marek Plichta
+
+Visual effects (VFX) not only enhance graphical fidelity and player engagement but also play a crucial role in communicating game mechanics. VFX can be seen as an extension of the user interface (UI), as they guide players, signal events, and help them with sense making. What sets VFX in games apart from traditional UI in 2D software or interactive 3D environments (such as VR training simulations) is their frequent diegetic nature. This means they are often embedded within the narrative and space of the game world. While traditional UI can also be diegetic, VFX have a unique ability to communicate with players while maintaining a high level of narrative immersion.
+In this study, I examine several popular games selected for their innovative use of VFX, focusing specifically on the functional aspects of VFX in game design. Based on this analysis, I propose an analytical framework using three key UX principles to categorize and understand the role of VFX in games. This framework aims to facilitate more effective discussions among game developers and UX researchers, providing a new lens through which to view and analyze the functional aspects of VFX in game design.
+
+
+#### Beyond Human Motion: Exploring Advanced Techniques and Challenges in Animal Motion Capture for Cinematography
+
+##### Maximilian Rueth
+
+Animal motion capture in cinematography presents significant challenges, particularly in achieving non-invasive tracking while maintaining natural behaviors. Although human motion capture has seen considerable advancements, applying similar tech- niques to animals requires innovative solutions. This paper explores a variety of methods, including markerless capture systems for underwater creatures, long-range data collection for wildlife, and advanced tracking approaches for large four-legged animals. Through a comparative analysis, we evaluate these methods’ effectiveness and potential integration into cinematic works while revealing their limitations. Further advancements are essential, particularly in improving accessibility, enhancing automation, and addressing ethical considerations, to ensure these technologies can be more broadly and effectively applied across the film industry and enhance the realism and immersion of animal portrayals in cinema.
+
+
+#### Creative and Technical Benefits of Previsualization in Virtual Film Production: A Comparative Case Study of Videomatics for In-Camera Visual Effects
+
+##### Adam Streicher
+
+This paper explores how multiple film departments can benefit from using videomatics as a form of previsualization (previz) during virtual production (VP) shoots on in-camera visual effects (ICVFX) stages and in preproduction. It addresses common ICVFX-specific challenges and analyses solutions through two case studies. The videomatic production processes of these cases are compared in the context of their ICVFX utilization. This study demonstrates approaches that can enhance filmmakers’ technical confidence and space for creative exploration in ICVFX projects.
 
 ### SS23
 
