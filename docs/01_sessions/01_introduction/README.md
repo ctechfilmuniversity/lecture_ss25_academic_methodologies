@@ -33,8 +33,6 @@ Recap the [Syllabus](../../index.md) of this class.
 
 Recap [Chapter 01 - ACS FUB 2025](../../02_scripts/am_01_conference_script.md) about the final project for this class, which is a conference simulation. If you have further questions, let me know next time in class.
 
-*Submission*: -
-
 
 ## Literature
 
