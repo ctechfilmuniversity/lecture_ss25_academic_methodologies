@@ -6,7 +6,9 @@ nav_exclude: true
 
 **Academic Methodologies**
   
-Prof. Dr. Lena Gieseke \| l.gieseke@filmuniversitaet.de \| Film University Babelsberg KONRAD WOLF
+Prof. Dr. Lena Gieseke \| l.gieseke@filmuniversitaet.de \| Film University Babelsberg KONRAD WOLF  
+Alexander Walmsley \| a.walmsley@filmuniversitaet.de \| Film University Babelsberg KONRAD WOLF  
+
 
 ## Session 01 - Introduction
 
@@ -16,7 +18,7 @@ Prof. Dr. Lena Gieseke \| l.gieseke@filmuniversitaet.de \| Film University Babel
 * [Topics and Syllabus](#topics-and-syllabus)
 * [ACS FUB 2025](#acs-fub-2025)
 * [Literature](#literature)
-* [Task 01.01 - Working With Literature](#task-0101---working-with-literature)
+    * [Task 01.01 - Working With Literature](#task-0101---working-with-literature)
 * [Your Paper](#your-paper)
     * [Task 01.02 - Topic Brainstorming](#task-0102---topic-brainstorming)
     * [Task 01.03 - Topic Selection](#task-0103---topic-selection)
@@ -31,20 +33,19 @@ Recap the [Syllabus](../../index.md) of this class.
 
 Recap [Chapter 01 - ACS FUB 2025](../../02_scripts/am_01_conference_script.md) about the final project for this class, which is a conference simulation. If you have further questions, let me know next time in class.
 
+*Submission*: -
+
 
 ## Literature
 
-* Read [Chapter 02 - Working With Literature](../../02_scripts/am_ss23_08_literature_script.md)
+* Read [Chapter 02 - Working With Literature](../../02_scripts/am_02_literature_script.md)
 * Read [How to Read a CS Research Paper?](./fong_2004_htr.pdf)
 * Read [How to Read a Paper](./keshav_2016_htr.pdf)
 
-The readings are all quite short but rather important. Make sure to read them carefully.
 
-*Submission*: -
+### Task 01.01 - Working With Literature
 
-## Task 01.01 - Working With Literature
-
-Have a look at possible tools and setups to organize your collected papers. If you had to choose now, which tool or setup would you choose, why?
+Have a look at possible tools and setups to organize your collected papers. Chose a setup and reflect on your choice.
 
 *Submission*: Brief description of your setup.
 

@@ -78,38 +78,18 @@ The paper, the reviews and exercises are homework.
 
 Possible Topics are:
 
-| Chapter | Title                | Topics                 |
-| ------- | -------------------- | ---------------------- |
-| **1**   | Research             | Goals                  |
-|         |                      | Terminology            |
-|         |                      | Types and Disciplines  |
-|         |                      | Problem Solving        |
-|         |                      | Methodology vs. Method |
-| **2**   | Reasoning            | Inductive              |
-|         |                      | Deductive              |
-|         |                      | The Scientific Method  |
-|         |                      | Qualitative            |
-|         |                      | Quantitative           |
-| **3**   | HCI                  |                        |
-| **4**   | Experiments          |                        |
-| **5**   | Statistics           | Descriptive            |
-|         |                      | Inferential            |
-| **6**   | Qualitative Research | Surveys                |
-|         |                      | Case Studies           |
-|         |                      | Interviews             |
-|         |                      | Evaluation             |
-| **7**   | Literature           |                        |
-| **8**   | Academic Writing     | Anatomy of a Paper     |
-|         |                      | Language               |
-|         |                      | Style                  |
-|         |                      | Citations              |
-|         |                      | LaTeX                  |
-| **9**   | Academic Publishing  | Journals               |
-|         |                      | Review                 |
-|         |                      | Bibliometrics          |
-|         | Academic Careers     | Phd                    |
+* Research              
+* Reasoning             
+* HCI                   
+* Experiments           
+* Statistics            
+* Qualitative Research  
+* Academic Publishing   
+* Academic Careers      
 
-Please note that the chapters and their order are subject to change!
+New: Artistic Research, Media Studies
+
+Please note that all is subject to change!
 
 ## Materials
 
