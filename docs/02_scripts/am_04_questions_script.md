@@ -29,8 +29,11 @@ Prof. Dr. Lena Gieseke \| l.gieseke@filmuniversitaet.de \| Film University Babel
     * [References](#references)
 
 ---
-
+<!-- 
+  
 *On a side note:* In this script two types of citation styles are mixed - which you should never do! Go sue me.  For me it was easiest to keep primary references in the same citation format as used in the secondary reference [1] that I used. That book's style is based on the [APA citation style](https://apastyle.apa.org/). For the scripts overall, I am using a style based on the [IEEE citation style](https://journals.ieeeauthorcenter.ieee.org/your-role-in-article-production/ieee-editorial-style-manual/). I like the IEEE style for the scripts because it is the most compact one for in-text citations. For normal texts however I prefer styles based on the [Harvard citation style](https://en.wikipedia.org/wiki/Parenthetical_referencing). We will come back to this in the chapter about working with literature.
+  
+ -->
 
 ---
 
