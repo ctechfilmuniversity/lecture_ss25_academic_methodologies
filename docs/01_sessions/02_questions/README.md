@@ -24,10 +24,12 @@ Alexander Walmsley \| a.walmsley@filmuniversitaet.de \| Film University Babelsbe
 
 ### Task 02.01 - Question Selection
 
+<br />
+
 **Deadline: May 12th**
 
 * Describe 1-3 questions that you are considering for your paper and explain for each, why you are interested in that particular question.
-* Make an appointment (before May 12th) with Alex or me to discuss your ideas. We will help you with finding your question.
+* Make an appointment (before May 12th) with Alex or Lena to discuss your ideas. We will help you with finding your question.
   
 
 

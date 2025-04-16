@@ -26,7 +26,7 @@ layout:false
 * Anatomy of a Paper
 
 --
-* Research Topics
+* Paper Topics
 
 
 
@@ -108,6 +108,7 @@ template:inverse
 > It is not an accomplishment to find literature. Reading the right one really is!
 
 ---
+.header[Literature]
 
 ## Collection Strategies
 
