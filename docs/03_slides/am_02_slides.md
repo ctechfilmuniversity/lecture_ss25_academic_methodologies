@@ -885,9 +885,7 @@ template:inverse
 * Briefly summarize your 1-3 topics and why you chose them
 * Everybody: give feedback and possible storylines / research questions
 
---
 
-Describe in max. 
 
 
 ---
