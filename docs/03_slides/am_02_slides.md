@@ -19,7 +19,8 @@ layout:false
 * ACS FUB
 
 --
-* Re-cap
+* Literature
+* Reading Strategies
 
 --
 * Anatomy of a Paper
