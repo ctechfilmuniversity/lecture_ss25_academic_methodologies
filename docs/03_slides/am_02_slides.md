@@ -177,7 +177,7 @@ template:inverse
 
 ## Management Tools
 
-A lot is happening - this script is probably out of date!
+A lot is happening...
 
 --
 
