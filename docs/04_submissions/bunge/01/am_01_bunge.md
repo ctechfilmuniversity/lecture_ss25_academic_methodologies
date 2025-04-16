@@ -8,7 +8,7 @@ nav_exclude: true
 
 ### Task 01.01 - Working With Literature
 
-I will be using Zotero to manage my references while writing the paper. It allows me to save sources, organize them into collections, and generate citations in different styles. Since I’ve used it before, I’m familiar with its features like note-taking and automatic bibliography creation.
+I will be using **Zotero** to manage my references while writing the paper. It allows me to save sources, organize them into collections, and generate citations in different styles. Since I’ve used it before, I’m familiar with its features like note-taking and automatic bibliography creation.
 
 ## Your Paper
 
@@ -40,13 +40,21 @@ AI in Politics: algorithmic bias, political discourse, misinformation, regulatio
 - How could you solve those questions?
   - Behavior Analysis, Interviews, or develope a guideline for responsible emotion implementation?
 
-**AI in Politics:**
+**Technology in Politics:**
 
 - What specifically interests you within that topic?
   - Bias and fairness
+  - Predictive Politics: getting or using (big) data and ML models to forecast election outcomes, public sentiment, or even policy/events impact
+  - bias in political algoritms;
 - What further characteristics does the topic have?
+  - Technological colonialismn
+  - Can technology make politics more inclusive?
 - What questions could you ask about that topic?
+  - How do machine learning algorithms shape political discourse online? is there a way to do it the other way around?
+  -
 - How could you solve those questions?
+  - create a simulation
+  - hmm
 
 **Smart Textiles:**
 
@@ -57,5 +65,9 @@ AI in Politics: algorithmic bias, political discourse, misinformation, regulatio
 - What further characteristics does the topic have?
   - Data collection
   - Flexible electronics
+  - (interactive) Fashion?
 - What questions could you ask about that topic?
+  - What kind of HCI is happening in this case?
 - How could you solve those questions?
+  - Analyse user-eperience case studies
+  -
