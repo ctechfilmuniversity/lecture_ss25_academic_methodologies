@@ -87,7 +87,7 @@ I'm particularly interested in how established psychological and creative method
 
 <div style="display: flex; justify-content: space-between; align-items: start;">
     <img src="./img/projection_1.png" alt="Projection" width="49%" />
-    <img src="./img/projection_2.png" alt="Projection" width="49%" />
+    <img src="./img/projection_5.png" alt="Projection" width="49%" />
 </div>
 
 ### Example 2
