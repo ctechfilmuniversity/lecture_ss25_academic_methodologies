@@ -30,7 +30,7 @@ I looked at Zotero and I found it quite promising. Alternatively would be Notion
 ## AI-based Video Generation for 3D Renderings
 
 **What interests you specifically about this topic?**
-I'm particularly interested in the potential of AI technologies to optimize the rendering process for 3D animations. Various approaches could be promising: from generating intermediate frames based on keyframes, to using depth maps and normal maps as control elements for AI, to intelligent completion of partially rendered scenes. I'm also interested of integrating this in 3D software like Blender or Cinema 4D. I already did a project whit Philip but for images: https://www.labenz.io/projects/trender
+I'm particularly interested in the potential of AI technologies to optimize the rendering process for 3D animations. Various approaches could be promising: from generating intermediate frames based on keyframes, to using depth maps and normal maps as control elements for AI, to intelligent completion of partially rendered scenes. I'm also interested in integrating this in 3D software like Blender or Cinema 4D. I already did a project with Philip but for images: https://www.labenz.io/projects/trender
 
 **What other characteristics does the topic have?**
 
@@ -45,6 +45,7 @@ I'm particularly interested in the potential of AI technologies to optimize the 
 - How accurately can AI maintain consistency between frames, especially with complex movements?
 - What quality differences emerge between traditionally rendered and AI-generated frames?
 - How can lighting effects and textures be reliably transferred through AI?
+- How effective is motion detection masking for selective rendering of changed areas?
 
 **How could you solve these questions?**
 
@@ -52,6 +53,7 @@ I'm particularly interested in the potential of AI technologies to optimize the 
 - Comparative studies between fully rendered animations and hybrid approaches
 - Create benchmark tests for different scenarios (camera movements, object movements, lighting changes)
 - User interviews with 3D artists and animators on practicality and workflow integration
+- Implement differential frame analysis to create masks for changed regions, allowing for targeted inpainting of only modified areas to further accelerate rendering times while maintaining visual consistency
 
 ## Expanding Agent-based AI Reasoning Methods Beyond Role-Playing
 
