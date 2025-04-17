@@ -15,8 +15,11 @@ I will probably be using Zotero to organise the papers and citations that I use.
 - AI helping the education systems of developing nations
 - Further polarisation of politics due to AI
 - The role of AI in psychology
-- Data visualisation of wealth inequality of world
-- Data visualisation of the 1%
+- Wealth inequality of world
+- Exploring the 1%
+- Visualisation of 
+- Art mixing tech and ceramics 
+- Visualisation of world supply chain 
 
 ## **Task 01.03 - Topic Selection**
 
