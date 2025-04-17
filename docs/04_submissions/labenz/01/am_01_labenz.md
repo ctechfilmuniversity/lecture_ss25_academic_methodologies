@@ -26,7 +26,7 @@
 ## AI-based Video Generation for 3D Renderings
 
 **What interests you specifically about this topic?**
-I'm particularly interested in the potential of AI technologies to optimize the rendering process for 3D animations. Various approaches could be promising: from generating intermediate frames based on keyframes, to using depth maps and normal maps as control elements for AI, to intelligent completion of partially rendered scenes.
+I'm particularly interested in the potential of AI technologies to optimize the rendering process for 3D animations. Various approaches could be promising: from generating intermediate frames based on keyframes, to using depth maps and normal maps as control elements for AI, to intelligent completion of partially rendered scenes. I'm also interested of integrating this in 3D software like Blender or Cinema 4D. I already did a project whit Philip but for images: https://www.labenz.io/projects/trender
 
 **What other characteristics does the topic have?**
 
