@@ -1,3 +1,9 @@
+---
+layout: default
+title: Session 01
+nav_exclude: true
+---
+
 # Homework 01:
 
 ### Task 01.01 - Working With Literature
