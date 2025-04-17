@@ -83,6 +83,8 @@ I'm particularly interested in how established psychological and creative method
 
 ## Innovative Map Projections for Navigation Apps
 
+ <img src="./img/projection_6.png" alt="Projection" width="100%" style="margin-top: 12px" />
+
 ### Example 1
 
 <div style="display: flex; justify-content: space-between; align-items: start;">
