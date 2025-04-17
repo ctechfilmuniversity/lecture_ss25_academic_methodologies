@@ -52,20 +52,20 @@ Collect a wide range of potential topics and keywords for your paper.
 
 ### 1. Taste as a battleground in social and cultural adversity
 
-<span style="color: hsl(210, 52.90%, 73.30%); font-weight: bold;">What specifically interests you within that topic?</span>
+<span style="color: hsl(205, 90%, 70%); font-weight: bold;">What specifically interests you within that topic?</span>
 
 How taste in music and art becomes a form of resistance in times of adversity, both socially and culturally. I’m interested in scenes like punk, hip-hop, rave culture, and post-dubstep as examples.
 
-<span style="color: hsl(210, 52.90%, 73.30%); font-weight: bold;">What further characteristics does the topic have?</span>
+<span style="color: hsl(205, 90%, 70%); font-weight: bold;">What further characteristics does the topic have?</span>
 
 It connects to sociology, subcultures, and how digital platforms today shape or polarise taste.
 
-<span style="color: hsl(210, 52.90%, 73.30%); font-weight: bold;">What questions could you ask about that topic?</span>
+<span style="color: hsl(205, 90%, 70%); font-weight: bold;">What questions could you ask about that topic?</span>
 
 How has adversity shaped taste historically?
 How do algorithms influence taste today?
 
-<span style="color: hsl(210, 52.90%, 73.30%); font-weight: bold;">How could you solve those questions?</span>
+<span style="color: hsl(205, 90%, 70%); font-weight: bold;">How could you solve those questions?</span>
 
 By studying case examples of cultural movements and analysing digital platforms' impact on taste.
 
@@ -73,20 +73,20 @@ By studying case examples of cultural movements and analysing digital platforms'
 
 ### 2. Does the value of creative work inflate with the rise of AI?
 
-<span style="color: hsl(210, 52.90%, 73.30%); font-weight: bold;">What specifically interests you within that topic?</span>
+<span style="color: hsl(205, 90%, 70%); font-weight: bold;">What specifically interests you within that topic?</span>
 
 Whether human-made creativity becomes more valuable — emotionally or economically — as AI-generated work becomes widespread.
 
-<span style="color: hsl(210, 52.90%, 73.30%); font-weight: bold;">What further characteristics does the topic have?</span>
+<span style="color: hsl(205, 90%, 70%); font-weight: bold;">What further characteristics does the topic have?</span>
 
 It ties to economics, the philosophy of art, and shifts in how authenticity and effort are valued.
 
-<span style="color: hsl(210, 52.90%, 73.30%); font-weight: bold;">What questions could you ask about that topic?</span>
+<span style="color: hsl(205, 90%, 70%); font-weight: bold;">What questions could you ask about that topic?</span>
 
 Will scarcity shift from production to authenticity?
 Can audiences differentiate AI from human creativity?
 
-<span style="color: hsl(210, 52.90%, 73.30%); font-weight: bold;">How could you solve those questions?</span>
+<span style="color: hsl(205, 90%, 70%); font-weight: bold;">How could you solve those questions?</span>
 
 By examining value theory, authenticity studies, and observing emerging artist strategies post-AI.
 
@@ -94,20 +94,20 @@ By examining value theory, authenticity studies, and observing emerging artist s
 
 ### 3. The aesthetics of imperfection in a digital age
 
-<span style="color: hsl(210, 52.90%, 73.30%); font-weight: bold;">What specifically interests you within that topic?</span>
+<span style="color: hsl(205, 90%, 70%); font-weight: bold;">What specifically interests you within that topic?</span>
 
 Why artists deliberately embrace imperfection — glitches, noise, randomness — in a world where digital perfection is easy.
 
-<span style="color: hsl(210, 52.90%, 73.30%); font-weight: bold;">What further characteristics does the topic have?</span>
+<span style="color: hsl(205, 90%, 70%); font-weight: bold;">What further characteristics does the topic have?</span>
 
 It relates to nostalgia, anti-corporate aesthetics, and emotional depth in digital art.
 
-<span style="color: hsl(210, 52.90%, 73.30%); font-weight: bold;">What questions could you ask about that topic?</span>
+<span style="color: hsl(205, 90%, 70%); font-weight: bold;">What questions could you ask about that topic?</span>
 
 Why is imperfection emotionally powerful?
 Can imperfection be designed intentionally?
 
-<span style="color: hsl(210, 52.90%, 73.30%); font-weight: bold;">How could you solve those questions?</span>
+<span style="color: hsl(205, 90%, 70%); font-weight: bold;">How could you solve those questions?</span>
 
 By researching glitch art, lo-fi aesthetics, and studying emotional responses to imperfection.
 
@@ -115,20 +115,20 @@ By researching glitch art, lo-fi aesthetics, and studying emotional responses to
 
 ### 4. Connecting real-time photorealistic animation with music
 
-<span style="color: hsl(210, 52.90%, 73.30%); font-weight: bold;">What specifically interests you within that topic?</span>
+<span style="color: hsl(205, 90%, 70%); font-weight: bold;">What specifically interests you within that topic?</span>
 
 I'm interested in how real-time visual technologies (like Unreal Engine) can be synchronised with music to create immersive, emotionally powerful experiences.
 
-<span style="color: hsl(210, 52.90%, 73.30%); font-weight: bold;">What further characteristics does the topic have?</span>
+<span style="color: hsl(205, 90%, 70%); font-weight: bold;">What further characteristics does the topic have?</span>
 
 It combines technical challenges (latency, synchronisation) with artistic ones (narrative, mood, atmosphere).
 
-<span style="color: hsl(210, 52.90%, 73.30%); font-weight: bold;">What questions could you ask about that topic?</span>
+<span style="color: hsl(205, 90%, 70%); font-weight: bold;">What questions could you ask about that topic?</span>
 
 How can sound and image be linked in real time without losing emotional depth?
 What creative opportunities arise from real-time interaction?
 
-<span style="color: hsl(210, 52.90%, 73.30%); font-weight: bold;">How could you solve those questions?</span>
+<span style="color: hsl(205, 90%, 70%); font-weight: bold;">How could you solve those questions?</span>
 
 By exploring technical workflows (like MIDI or OSC control) and analysing existing live audiovisual performances or installations.
 
