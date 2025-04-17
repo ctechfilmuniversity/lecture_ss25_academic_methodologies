@@ -87,13 +87,15 @@ I'm particularly interested in how established psychological and creative method
 
 <div style="display: flex; justify-content: space-between; align-items: start;">
     <img src="./img/projection_1.png" alt="Projection" width="49%" />
-    <img src="./img/projection_2.png" alt="Projection" width="49%" />
-   
+    <img src="./img/projection_5.png" alt="Projection" width="49%" />
 </div>
 
 ### Example 2
 
  <img src="./img/projection_3.png" alt="Projection" width="100%" style="margin-top: 12px" />
+ <img src="./img/screencast_1.gif" alt="Projection" width="100%" style="margin-top: 12px" />
+
+_a moving person_
 
 **What interests you specifically about this topic?**
 I'm particularly interested in how we can go beyond traditional bird's-eye views in navigation apps to improve spatial perception and orientation. Through novel projection methods, we could combine different scales and perspectives in a single map view, potentially leading to more intuitive navigation and better spatial understanding.
