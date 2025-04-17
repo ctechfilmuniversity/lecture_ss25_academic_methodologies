@@ -1,3 +1,7 @@
+# Task 01.01 - Working With Literature
+
+I looked at Zotero and I found it quite promising. Alternatively would be Notion or Markdown for me.
+
 # Task 01.02 - Topic Brainstorming
 
 - AI-based video generation for 3D renderings
