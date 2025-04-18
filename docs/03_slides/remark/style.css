@@ -80,9 +80,9 @@ code {
 
     background:
     radial-gradient(ellipse at top     left, rgb(0, 200, 255)  15% , transparent 60%), 
-    radial-gradient(ellipse at bottom  left, rgb(162, 12, 255)  15% , transparent 60%),
-    radial-gradient(ellipse at top    right, rgb(255, 45, 213) 15% , transparent 60%),
-    radial-gradient(ellipse at bottom right, rgb(0, 128, 255)   15% , transparent 60%)
+    radial-gradient(ellipse at bottom  left, rgb(12, 255, 158)  15% , transparent 60%),
+    radial-gradient(ellipse at top    right, rgb(255, 230, 45) 15% , transparent 60%),
+    radial-gradient(ellipse at bottom right, rgb(25, 155, 255)   15% , transparent 60%)
 }
 
 

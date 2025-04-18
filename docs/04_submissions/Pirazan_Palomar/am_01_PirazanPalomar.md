@@ -1,3 +1,9 @@
+---
+layout: default
+title: Session 01
+nav_exclude: true
+---
+
 # Session 01 - Introduction
 by: David Leonardo Pirazán Palomar
 

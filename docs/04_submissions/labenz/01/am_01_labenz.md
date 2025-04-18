@@ -1,3 +1,9 @@
+---
+layout: default
+title: Session 01
+nav_exclude: true
+---
+
 # Task 01.01 - Working With Literature
 
 I looked at Zotero and I found it quite promising. Alternatively would be Notion or Markdown for me.
