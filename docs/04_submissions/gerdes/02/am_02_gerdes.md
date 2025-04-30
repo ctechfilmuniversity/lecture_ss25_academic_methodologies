@@ -62,3 +62,19 @@ nav_exclude: true
 - more existing literature available (everything analyzing spatial structure in text data)
 - knowledge gap in terms of aggregating a text coordinate dataset alone is much less relevant
 - hypothesis needs work
+
+## Meeting
+
+- [x] meeting with Lena on `04/30/2025`
+
+### Meeting Notes
+
+- establish the starting point of a clear storyline by May 19th
+  - the basis for a coherent narrative (story strand) should be in place, even if the final research question is not yet fixed. This includes a clear motivation for the model/tool (performance, quality), and an overarching insight or contrast (e.g., commonalities or mismatches in use cases or datasets).
+
+- select and review relevant papers
+  - identify suitable academic papers and clearly define **criteria for comparison**. Consider how papers relate to your own practical context and how they support the creation of your dataset.
+
+### next step
+
+- [ ] paper review
