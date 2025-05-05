@@ -31,7 +31,7 @@ create the illusion of an emotional machine. (Manuel Flurin Hendry, 2023) '''
 
 does believability require authenticity - performance theory
 
-Improvisation – In acting, this is the spontaneous generation of behavior in response to a situation/context. In robotics, this could mean adaptive responses based on environmental cues or user emotions?
-Subtext – The underlying emotion or intention not spoken directly. Could robots express layered emotions or internal 'motivations' that are not explicitly stated?
-Comparative Study: Compare audience perceptions of emotion between robots using data-driven vs. theatre-inspired emotional models (do these exist..?)
-Simulation: How do actors simulate emotions which they haven’t felt before (depression, loss of a familiar)
+- **Improvisation** – In acting, this is the spontaneous generation of behavior in response to a situation/context. In robotics, this could mean adaptive responses based on environmental cues or user emotions?
+- **Subtext** – The underlying emotion or intention not spoken directly. Could robots express layered emotions or internal 'motivations' that are not explicitly stated?
+- **Comparative Study**: Compare audience perceptions of emotion between robots using data-driven vs. theatre-inspired emotional models (do these exist..?)
+- **Simulation**: How do actors simulate emotions which they haven’t felt before (depression, loss of a familiar)
