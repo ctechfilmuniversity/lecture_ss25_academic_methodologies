@@ -11,7 +11,7 @@ To answer this question I will find three AR projects from 3 different countries
 
 My contribution to this topic will be the selection of projects and my further analysis where I summarise, categorize and potentially find reoccurring patterns between the projects. At the moment I have only mentioned narrative style, user experience and cultural significance significance as some of the ways I will be analysing each project but this is open to change since I might change them or add to it according to all the further readings I will be doing. 
 
-I have also mentioned that I will be only doing this analysis for AR projects however, I might include VR projects and make this asses interactive media in general. I read a paper that favours AR due to it allowing for a more collaborative experience but, if I find VR projects or readings that change my mind and include VR.
+I have also mentioned that I will be only doing this analysis for AR projects however, I might include VR projects and make this assess interactive media in general. I read a paper that favours AR due to it allowing for a more collaborative experience but, if I find VR projects or readings that change my mind and include VR.
 
 Two readings I am interested in at the moment:
 
