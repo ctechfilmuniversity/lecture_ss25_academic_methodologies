@@ -5,7 +5,7 @@ nav_exclude: true
 ---
 ## **Task 01.01 - Question Selection**
 
-What are the current state-of-the-art approaches in augmented reality (AR) projects that engage with traumatic or sensitive aspects of national histories, particularly in terms of narrative strategies, user experience design, and their treatment of cultural and ethical significance?
+**What are the current state-of-the-art approaches in augmented reality (AR) projects that engage with traumatic or sensitive aspects of national histories, particularly in terms of narrative strategies, user experience design, and their treatment of cultural and ethical significance?**
 
 To answer this question I will find three AR projects from 3 different countries that have AR applications focused on their countries traumatic history and analyse each according to the different narrative styles used, how the user experiences differ and what the cultural significance is for each of them. From this I will create a state of the art report that will help foster a clearer understanding of the current techniques and approaches AR creators are using in this field. 
 
