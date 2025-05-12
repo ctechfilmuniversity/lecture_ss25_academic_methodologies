@@ -25,8 +25,6 @@ My contribution to this topic will be the selection of projects and my further a
 
 I have also mentioned that I will be only doing this analysis for AR projects however, I might include VR projects as well. I read a paper that favours AR due to it allowing for a more collaborative experience but if I find VR projects or readings that change my mind I will include VR.
 
-Two readings I am interested in at the moment:
-
 Readings: 
 
 1. *A Review of Augmented Reality Applications for History Education and Heritage Visualisation* by Jennifer Challenor and Minhua Ma
