@@ -892,7 +892,7 @@ template:inverse
 ## From Topic to Question
 
 Deadline for 1-3 questions: **May 12th**.  
-Deadline for the final question: **May 19th**.
+Deadline for the final question: **May 23th**.
 
 
 ???
@@ -916,7 +916,7 @@ Deadline for the final question: **May 19th**.
 <br />
   
 
-Make an appointment (before May 12th) with Alex or me to discuss your ideas. We will help you with finding your question.
+Make an appointment with Alex or me to discuss your ideas. We will help you with finding your question.
 
   
 

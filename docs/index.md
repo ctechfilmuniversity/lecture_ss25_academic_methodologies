@@ -24,6 +24,7 @@ Prof. Dr. Lena Gieseke \| l.gieseke@filmuniversitaet.de \| Film University Babel
     * [Topics](#topics)
     * [Materials](#materials)
         * [Structure](#structure)
+        * [Sessions](#sessions)
     * [Evaluation](#evaluation)
     * [Grading](#grading)
         * [Criteria](#criteria)
@@ -105,6 +106,17 @@ Materials are structured as follows:
 * In [`Scripts`](02_scripts) you find all scripts.
 * In [`Slides`](03_slides) you find all slides.
 * In [`Submissions`](04_submissions) you submit your work each week to the folder with your last name and a folder with the session index. You will submit all assignments to the same folder (the one with your last name).
+
+
+
+### Sessions
+
+Unless stated otherwise:
+
+* For each session, there is usually some homework.
+* Some homework assignments have a hard deadline - this is clearly stated in the description of the session. For each day that you submit late, we reduce **10% of the total points**. 
+* Most homework assignments you can hand in up until **July 31st**. For submissions after the deadline given in the session (but before July 31st), we reduce **15% of the total points**. 
+
 
 ## Evaluation
 

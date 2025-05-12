@@ -1,3 +1,10 @@
+---
+layout: default
+title: Homework
+nav_exclude: true
+---
+
+
 ## Research Question Thoughts:
 
 #### First Thoughts:

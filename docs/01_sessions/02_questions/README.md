@@ -26,12 +26,13 @@ Alexander Walmsley \| a.walmsley@filmuniversitaet.de \| Film University Babelsbe
 
 <br />
 
-**Deadline: May 12th**
+Soft Deadline: May 12th
 
 * Describe 1-3 questions that you are considering for your paper and explain for each, why you are interested in that particular question.
 * Make an appointment (before May 12th) with Alex or Lena to discuss your ideas. We will help you with finding your question.
   
 
+*On a side note:* the **hard** for submitting the final question will be **May 23th**.
 
   
 *Submission:* Your selection of questions, and for each their description and your motivation for them.
@@ -42,6 +43,17 @@ Alexander Walmsley \| a.walmsley@filmuniversitaet.de \| Film University Babelsbe
 ---
   
 Answer all questions directly in a copy of this file. Submit your copy as `am_XX_lastname.md` in your submissions folder (replace the XX with the number of the session). 
+  
+
+Please add the following header at the beginning of your Markdown file:
+
+```md
+---
+layout: default
+title: Homework
+nav_exclude: true
+---
+```
   
 
 ---
