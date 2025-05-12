@@ -15,7 +15,7 @@ Another reason why I want to do this topic is because for my Orientation Project
 
 Readings: 
 
-The Effects of VR Environments on the Acceptance, Experience, and Expectations of Cultural Heritage Learning by Ch’ng, Li, Cai, and Leow (2020)
+1. The Effects of VR Environments on the Acceptance, Experience, and Expectations of Cultural Heritage Learning by Ch’ng, Li, Cai, and Leow (2020)
 
 **Question 2: What are the current state-of-the-art approaches in augmented reality (AR) projects that engage with traumatic or sensitive aspects of national histories, particularly in terms of narrative strategies, user experience design, and their treatment of cultural and ethical significance?**
 
@@ -31,9 +31,4 @@ Readings:
 
 1. *A Review of Augmented Reality Applications for History Education and Heritage Visualisation* by Jennifer Challenor and Minhua Ma
 
-Aim: ‘The purpose of this study is to speculate regarding the following questions: How is augmented reality currently being used to enhance history education? Does the usage of augmented reality assist in developing long-term memories? Is augmented reality capable of conveying the emotional weight of historical events? Will augmented reality be appropriate for teaching a complex field such as the Holocaust? To address these, multiple studies have been analysed for their research methodologies and how their findings may assist with the development of
-Holocaust education.’
-
 2. *Virtual reality and affective learning in commemorative history teaching: effects of immersive technology and generative learning activities* by Miriam Mulders, Kristian H. Träg, Lilly Kaninski, Lara Kirner & Michael Kerres
-
-Aim: ‘This study examines a highly engaging and historical immersive VR application and thereby investigates the effectiveness of the generative learning activities of self-explaining and drawing. Seventy-four undergraduate students explored a three-dimensional representation of the room where Anne Frank, a Jewish girl, was hiding during World War II.’
