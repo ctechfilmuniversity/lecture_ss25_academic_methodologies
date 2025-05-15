@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Session 01
+title: Homework
 nav_exclude: true
 ---
 
