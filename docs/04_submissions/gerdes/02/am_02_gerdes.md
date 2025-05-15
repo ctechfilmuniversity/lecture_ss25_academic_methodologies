@@ -19,9 +19,11 @@ nav_exclude: true
 **Round II**
 
 - goal
+
   - The goal of this module paper is to develop and evaluate a supervised learning approach for predicting semantic spatial coordinates from text, comparing its performance against established dimensionality reduction pipelines.
 
 - preliminary research question
+
   - How does a custom-trained supervised learning model for predicting semantic coordinates from text compare to hybrid approaches using BERT embeddings with UMAP reduction in terms of startup time, inference speed, accuracy, and file size?
 
 - hypothesis
@@ -47,11 +49,12 @@ nav_exclude: true
 **Round II**
 
 - goal
+
   - The goal of this module paper is to discover sources for text data and use them to develop and evaluate a pipeline for generating mid-scale datasets that map textual content to semantically meaningful spatial coordinates.
 
-
 - preliminary research question
-  - How can dimensionality reduction techniques like PCA, t-SNE, and UMAP be optimally configured and used to generate a training dataset that maps encyclopedic (factual) texts to semantically coherent spatial coordinates?
+
+  - How can dimensionality reduction techniques like PCA, t-SNE, and UMAP be [optimally] configured and used to generate a training dataset that maps encyclopedic (factual) texts to semantically coherent spatial coordinates?
 
 - hypothesis
   - I hypothesize that combining text embeddings and dimensionality reduction techniques will yield a spatial-semantically sound structure within the dataset, useful for training in predictive modeling.
@@ -70,6 +73,7 @@ nav_exclude: true
 ### Meeting Notes
 
 - establish the starting point of a clear storyline by May 19th
+
   - the basis for a coherent narrative (story strand) should be in place, even if the final research question is not yet fixed. This includes a clear motivation for the model/tool (performance, quality), and an overarching insight or contrast (e.g., commonalities or mismatches in use cases or datasets).
 
 - select and review relevant papers
