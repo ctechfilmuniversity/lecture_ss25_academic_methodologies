@@ -60,19 +60,18 @@ The paper, the reviews and exercises are homework.
   
 ## Schedule
 
-| Session | Title                 | Topics          |
-| ------- | --------------------- | --------------- |
-| 10.04.  | Conference Simulation |                 |
-|         | Anatomy of a Paper    | Paper Storyline |
-|         | Literature            |                 |
-| 17.04.  |                       |                 |
-| 15.05.  |                       |                 |
-| 22.05.  |                       |                 |
-| 05.06.  |                       |                 |
-| 12.06.  |                       |                 |
-| 19.06.  |                       |                 |
-| 26.06.  |                       |                 |
-| 03.07.  |                       |                 |
+| Session | Title                             | Paper             |
+| ------- | --------------------------------- | ----------------- |
+| 10.04.  | Conference Simulation             |                   |
+|         | Anatomy of a Paper                | Storyline         |
+| 17.04.  | Research Questions, Literature    |                   |
+| 15.05.  | Research                          |                   |
+| 22.05.  | Reasoning & Methods               | Research Question |
+| 05.06.  | Qualitative Research              | Methodology       |
+| 12.06.  | Experiments & Statistics          | Abstract          |
+| 19.06.  | Argumentation & Artistic Research |                   |
+| 26.06.  | Writing I                         |                   |
+| 03.07.  | Writing II, Publishing            |                   |
 
 
 ## Topics
