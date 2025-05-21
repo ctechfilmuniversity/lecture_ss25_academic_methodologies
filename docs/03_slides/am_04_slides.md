@@ -174,7 +174,13 @@ Reasoning can be done well and it can be done badly...
 
 ## Logic
 
---
+> Contrariwise,” continued Tweedledee, “if it was so, it might be; and if it were so, it would be; but as it isn’t, it ain’t. That’s logic.” — Lewis Carroll, Through the Looking-Glass
+
+
+---
+.header[Reasoning]
+
+## Logic
 
 Logic is the discipline that aims to distinguish good reasoning from bad. 
 
