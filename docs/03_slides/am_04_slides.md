@@ -9,6 +9,128 @@ class: center, middle, inverse
 
 #### Film University Babelsberg KONRAD WOLF
 
+---
+layout: false
+  
+## Today
+
+--
+
+* Your Paper Topic
+
+--
+
+* Recap Research
+
+--
+
+* Reasoning
+
+--
+
+* Your Methodology
+
+---
+template: inverse
+
+# Your Research Question
+
+
+
+---
+template: inverse
+
+
+### Recap
+  
+## What Is Research?
+
+
+???
+.task[COMMENT:]  
+
+* The goals of research?
+
+---
+
+## Research
+
+* Novelty
+* Relevance
+
+>Researchers aim to make novel contributions that are of relevance to the knowledge of the world.
+
+
+--
+
+* *Systematic investigation*
+* *Establish facts*
+
+---
+
+## Research
+
+Research is about solving **hard** problems.
+
+
+???
+
+
+You can categorize problems as
+
+* Easy problems: you can just *see the answer*.
+* Medium problems: you can see the answer once you *engage*.
+* Hard problems: you need *strategies* for coming up with a potential solution, sometimes even for just getting started.
+
+--
+
+<br />
+
+For solving hard problems you need *strategies*.
+
+
+
+???
+*  for coming up with a potential solution, sometimes even for just getting started.
+
+
+## Research
+
+What are the differences between research method(s) and methodology?
+
+*Method*
+
+* Various procedures, schemes, algorithms, etc.
+* Planned, scientific and value-neutral
+
+*Methodology*
+
+* A science of studying how research is to be carried out.
+* Study of methods by which knowledge is gained.
+
+--
+
+<br />
+
+> The methodology is the work plan for a research project and its justification.
+
+
+???
+.task[COMMENT:]  
+
+* Systematic way to solve a problem
+
+
+
+
+
+
+---
+template:inverse
+
+### Chapter
+
+# Reasoning
 
 
 ---
@@ -19,13 +141,6 @@ layout: false
 
 .footnote[[Francisco Goya - ***The sleep of reason produces monsters***, 1799.]]    
 
-
----
-template:inverse
-
-### Chapter
-
-# Reasoning
 
 
 ???
@@ -751,7 +866,7 @@ This methodology can provide us guidance for solving problems of interpretation 
 ---
 template:inverse
 
-# Quantitative and Qualitative Methodologies
+## Quantitative and Qualitative Methodologies
 
 
 ???
@@ -896,6 +1011,39 @@ Next week we are starting to have a look into actual methods, from both qualitat
 
 .center[<img src="../02_scripts/img/reasoning/paro.png" alt="paro" style="width:80%;">.imgref[[[Beccaluva et al.]](https://re.public.polimi.it/retrieve/handle/11311/1058769/298476/ROMAN17-Sam%20Teo%20Paro-CAMERA%20READY.pdf)]]
 
+---
+template:inverse
+
+## Your Methodology
+
+
+---
+## Homework
+
+--
+
+Develop your methodology
+
+
+--
+* Overall paper structure (sections)
+
+--
+* Bullet points for each section
+
+  
+<br />
+
+On a side note: the doesn't need to be the final version, we will iterate on it.
+
+
+???
+
+It is time to think about how you want to answer the question(s) you are posing.  
+
+Brainstorm which methods and/or which steps you want to apply. This task does not aim to find your personal journey of investigation. You should work on defining the approach that you will present in a paper as your methodology (but of course, you can also reflect on what you, personally, need to do to get there). 
+
+*Submission*: Your paper structure and bullet points ofr each section
 
 
 ---

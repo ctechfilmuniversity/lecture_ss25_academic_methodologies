@@ -17,12 +17,12 @@ Prof. Dr. Lena Gieseke \| l.gieseke@filmuniversitaet.de \| Film University Babel
 * [Chapter 02 - Working With Literature](am_02_literature_script.md)
 * [Chapter 03 - Writing](am_03_writing_script.md)
 * [Chapter 04 - Research Questions](./am_04_questions_script.md)
-
-
+* [Chapter 05 - Research](am_05_research_script.md)
+* [Chapter 06 - Reasoning](am_06_reasoning_script.md)
+  
 <!-- 
   
-* [Chapter 02 - Research](am_02_research_script.md)
-* [Chapter 03 - Reasoning](am_03_reasoning_script.md)
+
 * [Chapter 04 - HCI and Research Questions](am_04_hci_script.md)
 * [Chapter 05 - Experiments](am_05_experiments_script.md)
 * [Chapter 06 - Statistics in a Nutshell](am_06_statistics_script.md)
