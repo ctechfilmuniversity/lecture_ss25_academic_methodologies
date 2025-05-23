@@ -16,9 +16,9 @@ How can dimensionality reduction techniques like PCA, t-SNE, and UMAP be configu
 
 #### description
 
-Dimensionality reduction (DR) plays an integral role in most fields affiliated with information processing, eg. data compression and machine learning[^1]. Beyond that, it serves as a powerful tool to understand and analyze higher-dimensional data visually. Applying these techniques to a large existing dataset can be used to capture the resulting mapping of datapoint and spatial coordinate as a new training dataset for supervised predictive modeling tasks.
+Dimensionality reduction (DR) plays an integral role in most fields affiliated with information processing, e.g., data compression and machine learning[^1]. Beyond that, it serves as a powerful tool to visually understand and analyze higher-dimensional data. These techniques can be applied to a large existing dataset to generate a new training set, where each original data point is mapped to a corresponding spatial coordinate for use in supervised predictive modeling tasks.
 
-With this paper the focus lies on an encyclopedic text corpus (like the wikipedia dataset[^2]) and overall thematic similarity as spatial proximity between entries. Based on selected literature that investigates the usage of techniques like PCA, t-SNE or UMAP for the visualization of semantic relationships within data, the goal is to derive a practical framework to generate such a dataset. Optimally, aspects like data cleaning and quality measurements would also be considered.
+In this paper, the focus lies on an encyclopedic text corpus (like the Wikipedia dataset[^2]) and on representing overall thematic similarity as spatial proximity between entries. Based on selected literature that investigates the use of techniques such as PCA, t-SNE, or UMAP for the visualization of semantic relationships within data, the goal is to derive a practical framework to generate such a dataset. Ideally, aspects such as data cleaning and quality measurements would also be considered.
 
 ---
 
@@ -27,4 +27,5 @@ With this paper the focus lies on an encyclopedic text corpus (like the wikipedi
 
 #### prompts
 
-https://chatgpt.com/share/6830d1cb-6190-8008-ba48-f658b836a09d
+literature search: https://chatgpt.com/share/6830d1cb-6190-8008-ba48-f658b836a09d
+grammar refinement: https://chatgpt.com/share/6830dea9-b104-8008-b7dc-8e529b4a754b
