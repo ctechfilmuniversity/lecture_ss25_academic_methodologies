@@ -24,9 +24,15 @@ My starting point is the paper:
 
 _"Michelle Chang, Chenyi Shen, Aditi Maheshwari, Andreea Danielescu, and Lining Yao. 2022. Patterns and Opportunities for the Design of Human-Plant Interaction. In Designing Interactive Systems Conference (DIS ’22), June 13–17, 2022, Virtual Event, Australia. ACM, New York, NY, USA, 24 pages. https://doi.org/10.1145/3532106.3533555"_
 
-Which gives a framework for designing human-plants interaction, based on interdisciplinary approaches. I am also taking into account script classics like:
+Which gives a framework for designing human-plants interaction, based on interdisciplinary approaches. 
+
+I am also taking into account script classics like:
 
 * "Frensham, Raymond. 1996. Scriptwriting. London: Lincolnwood." 
 * Kellermann, Ron. 2018. Das Storytelling Handbuch. Sankt Gallen: Midas.
 
-But I also what to learn more about non-linear structures, in order to be aware of the possibilities of the dramaturgy. 
+But I also what to learn more about non-linear structures, in order to be aware of the possibilities of the dramaturgy like: 
+
+* Aronson, Linda. 2010. The 21st Century Screenplay. New York: Allen & Unwin.
+* McKee, Robert. 2016. Story: Die Prinzipien des Drehbuchschreibens. Berlin: Alexander.
+* Parker, Philip. 2005. Die Kreative Matrix. Konstanz: UVK.
