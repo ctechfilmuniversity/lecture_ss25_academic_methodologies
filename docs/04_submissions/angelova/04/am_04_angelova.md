@@ -37,8 +37,8 @@ Here are some examples of papers that I like and think that they will be helpful
 - ...
 
 __1 Introduction__
-- why is the field important
 
+- why is the field important
     - birdsong syllables are order according to complex sequential rules, therefore provide a model to study systems, which generate sequential behaviors like the human speech
     - the segmentation step is a laborious task requiring human effort and prone to human error and bias
     - many methods need labeled datasets or some isolated syllabled after human-aided segmentation 
@@ -47,6 +47,7 @@ __1 Introduction__
     - syllables labelling procedure cannot be generalized acress datasets since syllable categories are defined for eahc individual eparatelly [Ghaffari et al., 2023] 
 
 Write about:
+
 - scope of the paper - what specific area/ problem it covers
 - what are the contribution of this survey
 - paper structure summary 
@@ -93,7 +94,9 @@ Very important to include about:
 
 Where to write about datasets and metrics?
 
-How can the existing methods be grouped together? Based on the algorithm/ models they use or based on being supervised/ unsupervised, based on the input - raw audio input vs spectrograms (maybe does not make much sense)
+How can the existing methods be grouped together?
+
+Based on the algorithm/ models they use or based on being supervised/ unsupervised, based on the input - raw audio input vs spectrograms (maybe does not make much sense)
 
 __4 Detailed survey of each category__
 
@@ -121,6 +124,6 @@ Every paper talks about these difficulties - so summarize them - e.g. manual ann
 
 - Here something about the creative direction? 
 
-__Conclusion__
+__6 Conclusion__
 
 ---
