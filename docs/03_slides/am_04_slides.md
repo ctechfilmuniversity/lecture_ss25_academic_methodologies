@@ -174,6 +174,8 @@ Reasoning can be done well and it can be done badly...
 
 ## Logic
 
+--
+
 > Contrariwise,” continued Tweedledee, “if it was so, it might be; and if it were so, it would be; but as it isn’t, it ain’t. That’s logic.” — Lewis Carroll, Through the Looking-Glass
 
 
@@ -1016,6 +1018,14 @@ Within the context of Creative Technologies:
 Next week we are starting to have a look into actual methods, from both qualitative as well as quantitative research methodologies within the context of human computer interaction.
 
 .center[<img src="../02_scripts/img/reasoning/paro.png" alt="paro" style="width:80%;">.imgref[[[Beccaluva et al.]](https://re.public.polimi.it/retrieve/handle/11311/1058769/298476/ROMAN17-Sam%20Teo%20Paro-CAMERA%20READY.pdf)]]
+
+---
+
+
+![qualitativeresearch_01](../02_scripts/img/reasoning/qualitativeresearch_01.png)  
+.imgref[[[Dave Yeats]](https://medium.com/indeed-engineering/qualitative-before-quantitative-how-qualitative-methods-support-better-data-science-d2b01d0c4e64)]
+
+
 
 ---
 template:inverse
