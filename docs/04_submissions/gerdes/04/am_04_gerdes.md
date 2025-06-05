@@ -62,7 +62,7 @@ _notes on structure_<br>
       - dimensionality reduction using supervised predictive modeling
         - requires a large dataset with mappings between input data (like text) and reduced dimensionality (2D for spatial relationships)
           - no such dataset available -> How can we generate this data set?
-- _Related Work_
+- _Related Work_ (move that to main!)
   - dataset generation
     - best practices
   - dimensionality reduction in terms of semantic proximity
