@@ -12,6 +12,8 @@ nav_exclude: true
 
 ### Brainstorm
 
+_overall_
+
 - literature review
   - dimensionality reduction in terms of semantic proximity
     - pipeline
@@ -82,6 +84,8 @@ _notes on structure_<br>
 
 ### Methodology
 
+- _Abstract_
+  - assumption about the dataset generation
 - _Intro_
   - based on leitmotif-approach, kindle interest through outlining the problem
 - _Related Work_ (analogous to **literature review**)
@@ -95,13 +99,16 @@ _notes on structure_<br>
 - _Main Content_
   - combining existing embedding (eg. sBERT, nomic-embed) and DR (eg. PCA, t-SNE and UMAP) techniques to generate data set
     - testing and evaluating multiple configurations
-  - Results
+  - **Results**
     - comparison of different combination that have been tried out
       - framework/pipeline for generating datasets based on mappings between high-dimensional and reduced (spatial) dimensional data
-  - Evaluation
+  - **Evaluation**
     - common general quality measurements used for datasets (maybe should be part of literature review?)
     - spatial structure of the resulting dataset when visualizing (too similar too Nomic?)
-  - Discussion
+  - **Discussion**
+    - dependant on outcome
+- _Conclusion_
+  - dependant on outcome
 
 ### Arisen Questions
 
