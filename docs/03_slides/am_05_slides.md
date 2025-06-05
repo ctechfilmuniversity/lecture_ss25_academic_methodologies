@@ -98,6 +98,8 @@ What is the difference between good and bad reasoning. What is the spectrum?
 
 ## Logic
 
+--
+
 Logic is the discipline that aims to distinguish good reasoning from bad. 
   
 <br />
@@ -158,16 +160,13 @@ Hence, there are many approaches to the logical enterprise.
 
 .center[<img src="../02_scripts/img/reasoning/inductive.png" alt="inductive" style="width:100%;">]
 
----
-.header[Reasoning]
-
-## Inductive Reasoning
+???
+  
 
 > An inductive argument is an argument which conclusion is supposed to follow from its premises with a high level of probability. 
 
 
-???
-  
+
 * Formulate general statements or laws based on a number of observations of recurring patterns.
 * It derives novel theories from the world.
 * Specifically...
@@ -370,16 +369,13 @@ It tests the validity of existing assumptions in reality.
 
 .center[<img src="../02_scripts/img/reasoning/deduction_02.png" alt="deduction_02" style="width:100%;">]
 
----
-.header[Reasoning]
 
-## Deductive Reasoning
+???
+  
 
 > A deductive argument is an argument whose conclusion is supposed to follow from its premises with absolute certainty, thus leaving no possibility that the conclusion doesn’t follow from the premises.  
 
 
-???
-  
 
 * also deductive logic
 * Deductive reasoning is the process of reasoning from one or more statements (premises) to reach logically certain conclusion. 
@@ -608,7 +604,7 @@ The methodologies of *quantitative* and *qualitative* research can guide you thr
 * Means what?
 --
 
-Systematic empirical investigation of observable phenomena via *statistical*, *mathematical*, or *computational techniques*.  
+Systematic investigation of observable phenomena via *statistical*, *mathematical*, or *computational techniques*.  
 
 --
 
@@ -744,6 +740,31 @@ A study on the effectiveness of a new teaching method might:
 > Can be pretty much anything...
 
 
+---
+.header[Mixed Methods Methodology]
+
+## Media Studies 
+
+Interdisciplinary field that can draw on qualitative, quantitative, or mixed methods, depending on the research question.
+
+
+---
+.header[Mixed Methods Methodology]
+
+## Media Studies 
+
+Qualitative:
+* Textual analysis (e.g., analyzing film)
+* Discourse analysis (e.g., examining text and language)
+* Audience studies (e.g., interviews on media reception)
+* Historical or archival research (e.g., technologies in regard to time)
+
+Quantitative:
+* Surveys (e.g., measuring media consumption habits)
+* Content analysis with coding (e.g., tracking how often a theme appears)
+* Statistical modeling (e.g., measuring and generalizing media effects)
+
+
 ???
 Media studies often uses qualitative research, but it is not limited to it. Media studies is an interdisciplinary field that can draw on qualitative, quantitative, or mixed methods, depending on the research question.
 
@@ -774,7 +795,7 @@ layout: false
 
 ## Research Methods
 
-The most common methods for qualitative research are
+Qualitative research methods are, for example:
 
 --
 
@@ -791,7 +812,7 @@ These methods are usually analyzed by *coding*.
 ---
 ## Research Methods
 
-The most common methods for qualitative research are
+Qualitative research methods are, for example:
   
 * **Case Studies**
 * **Surveys**
@@ -818,7 +839,10 @@ These methods are usually analyzed by *coding*.
     * The researcher becomes part of the study
 
 
+---
+template:inverse
 
+## Case Studies
 
 ---
 .header[Qualitative Research Methods]
@@ -835,7 +859,7 @@ These methods are usually analyzed by *coding*.
 * Context-dependent
 * Deep and narrow
 * Small set of samples
-* Does not aim for generalization
+* Does not necessarily aim for generalization
 
 --
 
@@ -937,7 +961,7 @@ Traditionally, a qualitative method, in reality often a mixed method.
 4. Observational Study: *What is it?*
 5. Literature Survey: *What is known?*
 6. Formal Model: *Underlying concepts?*
-    * Often explained using a case
+    * Often explained using one or few cases
 
 .footnote[Serge Demeyer. *Research Methods in Computer Science*. University of Antwerp.]
 
@@ -1048,7 +1072,7 @@ How you chose your case must be thoroughly described. You could also use a speci
 ---
 .header[Qualitative Research Methods | Case Studies]
 
-## Example: Research through Design
+## Example: Research Through Design
 
 
 ???
@@ -1059,7 +1083,7 @@ How you chose your case must be thoroughly described. You could also use a speci
 The case is a design artifact 
 
 --
-vs. real-world phenomena as with "traditional" case studies.
+vs. real-world phenomena, as with "traditional" case studies.
 
 --
 
@@ -1103,13 +1127,12 @@ template:inverse
 
 --
 
-* One of the most commonly used research methods, across all fields of research
 * Easy to setup, easy to mess up
 
 
 ???
   
-
+* One of the most commonly used research methods, across all fields of research
 * One of the reasons why surveys may be maligned is that they are often used not because they are the most appropriate method but because they are the easiest method. There are a lot of bad research projects, in which professors or students quickly write a survey, do not do sufficient pilot testing of the survey questions, distribute it to first-year students, and then claim that the survey results can generalize to other populations. Unless the actual focus of the research is university students, then this common research scenario is misguided.
 
 ---
@@ -1128,7 +1151,7 @@ Survey research may be the most appropriate methodology for measuring parameters
 
 --
 
-Survey work with a large sample size. The gathered data usually aims to generalize.
+Surveys work with a large sample size. The gathered data usually aims to generalize.
 
 ---
 .header[Qualitative Research Methods]
@@ -1142,7 +1165,7 @@ Can be set up as qualitative as well as quantitative, depending on the questions
 
 <br />
 
-**Surveys are less appropriate for precise measurements. **
+**Surveys are less appropriate for precise measurements.**
 
 ---
 .header[Qualitative Research Methods]
@@ -1162,10 +1185,9 @@ Surveys usually rely on users to complete the survey on their own. Hence the sur
 A common value for a response rate is 20% (only!).
 
 
----
-.header[Qualitative Research Methods | Surveys]
 
-## Developing Questions
+???
+  
 
 A survey has two structures
 
@@ -1173,8 +1195,6 @@ A survey has two structures
 * and the *structure of a single question*.
 
 
-???
-  
   
 The main challenge is to develop precise but easy to understand and non-biased questions. 
 
@@ -1221,17 +1241,7 @@ Single questions can be categorized in three types: as
 
 * This open-ended question provides no information about the possible causes; instead it requires the respondent to think deeply about what the causes might be (Dillman, 2000, as cited in [1]). The respondent may be too busy to come up with a complete response or may simply say something like "I didn't like the software". It is a very broad question. More specific questions might be:  
 
---
-* *Did software X allow you to complete the tasks that you wanted to complete?*
 
-
---
-* *How did you feel about the usability of software X?* 
-
-???
-  
-
-* These questions address more specific topics: ease of use and task completion. The respondents cannot simply answer "I didn't like it,” although they could just answer “yes” or “no” to the second question. Perhaps another way to reword that second question might be as:  
 
 --
 * *What barriers did you face in attempting to use software X to complete your tasks?*
@@ -1241,6 +1251,15 @@ Single questions can be categorized in three types: as
   
 
 * In that revision, the respondents could simply say, “none” but the question also invites the respondents to think carefully about the problems that they might have faced.
+
+--
+* *How did you feel about artwork X?* 
+
+???
+  
+
+* These questions address more specific topics: ease of use and task completion. The respondents cannot simply answer "I didn't like it,” although they could just answer “yes” or “no” to the second question. Perhaps another way to reword that second question might be as:  
+
 
 ---
 .header[Qualitative Research Methods | Surveys]
@@ -1408,9 +1427,15 @@ template: inverse
 Qualitative methods do not aim to eliminate *subjectivity*. They accept that subjectivity is inherent to process of interpreting certain data.   
 
 --
+
+<br />
+
+Also, analysis is often meant to be *explorative* without a pre-existing hypothesis or such.
+
+--
   
 
-> They strive to show that interpretations are developed methodically to be consistent with, and representative for the available data.
+> We strive to show that interpretations are developed methodically, consistent with, and representative for the available data.
 
 
 ???
