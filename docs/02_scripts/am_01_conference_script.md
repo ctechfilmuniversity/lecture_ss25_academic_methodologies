@@ -62,10 +62,8 @@ The paper must follow the format guidelines otherwise it is not accepted.
 
 ### Submission
 
-*The links in the following guidelines will be added at a later time.*
-
 * You only submit a pdf version of your paper.
-* Submissions will be made electronically through the [EasyChair submission system]() (link to follow). The submission is open now.
+* Submissions will be made electronically through the [EasyChair submission system]() (***link to follow***). The submission is open now.
 * Submissions are anonymous. DO NOT INCLUDE YOUR NAME IN THE SUBMITTED PAPER PDF.
 * Submissions are only accepted as pdf from the given [LaTeX template](../01_sessions/01_introduction/acsfubPublStyle_2025.zip).
     * The template is a stripped down version of the original conference template of the [Eurographics](https://eg25.cs.ucl.ac.uk/main/home.html) conference, with this [original submission template](../01_sessions/01_introduction/egPublStyle-EG-full-star-short-edu-tut-posters-2019.zip). This specific template is fairly complex but it will be a good (and realistic) exercise for you to work with this template.
