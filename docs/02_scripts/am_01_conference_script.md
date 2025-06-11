@@ -67,8 +67,8 @@ The paper must follow the format guidelines otherwise it is not accepted.
 * You only submit a pdf version of your paper.
 * Submissions will be made electronically through the [EasyChair submission system]() (link to follow). The submission is open now.
 * Submissions are anonymous. DO NOT INCLUDE YOUR NAME IN THE SUBMITTED PAPER PDF.
-* Submissions are only accepted as pdf from the given [LaTeX template](../01_sessions/00_paper/acsfubPublStyle_2024.zip).
-    * The template is a stripped down version of the original conference template of the [Eurographics](https://eg2024.cyens.org.cy/) conference, with this [original submission template](../01_sessions/00_paper/egPublStyle-EG-full-star-short-edu-tut-posters-2019.zip). This specific template is fairly complex but it will be a good (and realistic) exercise for you to work with this template.
+* Submissions are only accepted as pdf from the given [LaTeX template](../01_sessions/01_introduction/acsfubPublStyle_2025.zip).
+    * The template is a stripped down version of the original conference template of the [Eurographics](https://eg25.cs.ucl.ac.uk/main/home.html) conference, with this [original submission template](../01_sessions/01_introduction/egPublStyle-EG-full-star-short-edu-tut-posters-2019.zip). This specific template is fairly complex but it will be a good (and realistic) exercise for you to work with this template.
     * **If you have no experience with working with LaTeX make sure to plan in enough time to get accustomed to the system.**
     * If you know LaTeX feel free to add packages and commands to the template. However make sure that you always adhere to the predefined layout. 
     * Here can find an Eurographics [exemplary short paper](https://www.dfki.de/fileadmin/user_upload/import/10356_009-012.pdf) (randomly chosen for demonstrating the layout).
