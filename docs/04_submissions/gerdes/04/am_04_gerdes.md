@@ -128,3 +128,15 @@ Feedback Lena:
 * Q1: Yes. It is a bit of a balance but manageable. I suggest that you do tell the larger story, including the training early on, e.g. already in the intro. But then you also need to make it crystal clear, what we gain from this specific paper already, without the later future work steps.
 * Q2: No. Because of your "two step problem", you do need a bit more story telling, which is fine.
 * Q3: I am not sure if I fully understand your questions. If something is related, either in academia or the industry, you should mention it and let your reader know how you are different or why it is worthwhile that you are "doing it again". Trying something with open source resources / algorithm is for our scope totally enough as story.
+
+---  
+Feedback Alex:
+  
+Overall good but at several points it remains slightly vague:  
+- “comparison of different combination that have been tried out” —> how? tabular results?
+- “common general quality measurements used for datasets” —> which ones?
+- discussion to be “dependent on outcome” - fair, but can still be broadly outlined. E.g. How would results reflect back on broader context of question? What would be the implications if you were able to find a more efficient algorithm for dimensionality reduction?
+  
+Regarding your three specific questions, I agree with Lena. I would suggest that the introduction feels a little out of proportion primarily because it feels worked out in more detail than the following sections.  
+
+Regarding similarities/differences to Nomic: you might not know at the moment how similar your results will be to their's. But do make sure you justify your work as an appropriate response to what they are doing. Then in the end if it turns out your results are similar (or in the worst case, worse) than their's, the experiment is still justified.  
