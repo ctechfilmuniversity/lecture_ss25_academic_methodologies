@@ -29,3 +29,8 @@ Feedback Lena:
 * Why the clustering? How are you planning on doing it and what follows from these clusters?
 * What are your expected results / contributions?
 
+---
+Feedback Alex:
+
+Needs some more development. I seem to remember you were also going to try to implement your own test based on an acting method?  
+
