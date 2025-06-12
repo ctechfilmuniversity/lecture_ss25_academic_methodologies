@@ -14,14 +14,15 @@ nav_exclude: true
 
 1.    - **Jin et al. (2022) – [Logical Fallacy Detection - ACL Anthology](https://aclanthology.org/2022.findings-emnlp.532/) (Findings of EMNLP 2022)**  
         This paper presents one of the first comprehensive approaches to logical fallacy detection using neural networks, introducing a dataset and a multi-task learning framework. It is relevant to my work as it lays the groundwork for automated fallacy classification and highlights the challenges posed by contextual ambiguity and overlapping categories, which my study seeks to address through reasoning-aware prompting strategies.
-   
-      - **Wei et al. (2022) – [ Chain-of-Thought Prompting Elicits Reasoning in Large Language Models](https://arxiv.org/abs/2201.11903) (NeurIPS 2022)**  
+
+2.    - **Wei et al. (2022) – [ Chain-of-Thought Prompting Elicits Reasoning in Large Language Models](https://arxiv.org/abs/2201.11903) (NeurIPS 2022)**  
         This paper introduces chain-of-thought (CoT) prompting as a method to improve the reasoning abilities of large language models across a range of complex tasks. It is highly relevant to my research, as I aim to apply CoT prompting to the specific domain of fallacy classification, with the hypothesis that intermediate reasoning steps will enhance both accuracy and interpretability.
    
-      - **Anonymous et al. (2024) – [When LLMs Meet Cunning Texts: A Fallacy Understanding Benchmark for Large Language Models](https://arxiv.org/abs/2402.11100) (NeurIPS D&B Workshop 2024)**  
+3.    - **Anonymous et al. (2024) – [When LLMs Meet Cunning Texts: A Fallacy Understanding Benchmark for Large Language Models](https://arxiv.org/abs/2402.11100) (NeurIPS D&B Workshop 2024)** 
         This workshop paper proposes a new benchmark, FLUB, designed to evaluate the ability of large language models to understand and classify a diverse set of logical fallacies. It is directly relevant to my project as it provides recent empirical insights into model limitations and serves as a comparative reference point for assessing the effectiveness of CoT-based approaches.
 
 ---
+
 
 **These papers make also a good impression, but I need to double-check them:**
 
