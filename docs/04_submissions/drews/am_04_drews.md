@@ -44,3 +44,12 @@ Feedback Lena:
 * 3. needs a title, also think already about sub-section title
 * You might want to merge 4. into 3. as that is the actual interesting part about the cases?
 * You also want an overall discussion, referring to the paper as a whole, which is currently missing
+
+---
+Feedback Alex:  
+
+Very good, I could follow it all clearly and it makes sense. Some bits that need development:
+- The title is ok but I have a problem with the phrase "hidden patterns and relationships". It reappears at multiple points in the outline, but without any further explanation. What kind of patterns and relationships are you interested in? I think it is important to define what this might be at this point, even if it changes later.  
+- Section 3 “Insights and patterns revealed” —> again, what insights and patterns are you actually looking for? It is not entirely clear what you hope to get out of the comparison.  
+- Section 3 "Visitor experience" -> same question - what are you looking for here? There could be many relevant and less relevant things e.g. enjoyment of the exhibition, engagement, learning, money spent. In addition, how do you plan to get this information for your case studies?  
+- “Comparative analysis” —> this needs a little more fleshing out. You again mention patterns and relationships, but it would be helpful to know already what kinds of things you might hope to get out, even if this changes later once the results are in.  
