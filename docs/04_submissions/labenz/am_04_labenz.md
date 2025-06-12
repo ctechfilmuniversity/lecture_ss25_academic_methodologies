@@ -60,3 +60,10 @@ Feedback Lena:
 * In papers (differently to theses) you focus on your "contributions" in the introduction, not explicitly on the research question. We will talk about this one more time in class at a later point.
 * "Proposed Technique" is too generic for a section title, use something project specific, e.g. "Adaptive Facade Tilting".
 * I would put the analysis of the user study into that section and keep the discussion more general, referring to the paper overall, which is currently missing in your discussion
+
+---
+Feedback Alex:  
+  
+Interesting and relatively clear, although I need more information on the "design" part of this paper. The section "Proposed Technique" needs to present some justification for why you have chosen this technique over others that could address the problem, the different tools for accomplishing this effect and why you have chosen Google Maps/Mapbox etc. In design research the research is often the path you take to get to the final "product", so this section should also contain details of the different iterations you went through etc.  
+
+My only other thought is that finding 10 test subjects and evaluating all the data you will get from that might be too much for AM. I would suggest maybe doing 3 more detailed interviews/trials.  
