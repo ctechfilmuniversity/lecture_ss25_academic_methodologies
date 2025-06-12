@@ -115,3 +115,16 @@ _notes on structure_<br>
 - [ ] `Q01:` The main reason the dataset generation is interesting, is the ability to train predictive models based on the new set. Due to scope this will not be part of the paper so naturally this would fall under "Future Work". Does the narrative structure still make sense this way?
 - [ ] `Q02:` Intro feels disproportionate to the main content. Yes / No ?
 - [ ] `Q03:` [Nomic Atlas](https://atlas.nomic.ai/discover) as related (and inspirational) but different work ([UMAP and proprietary algorithm](https://docs.nomic.ai/atlas/embeddings-and-retrieval/dimensionality-reduction)). Difference large enough? (similar (proprietary: nomic-project-v2) pipeline; result is not the visualization but new dataset) Would this rather be an Acknowledgement?
+
+
+
+
+   
+---
+Feedback Lena:
+* Don't use "Main Content" as section title, but use something project specific, e.g. "Adaptive Facade Tilting".
+* Instead of "interest", I would use "application scenario"
+* In papers (differently to theses) you already include your "contributions" in the introduction. We will talk about this one more time in class at a later point.
+* Q1: Yes. It is a bit of a balance but manageable. I suggest that you do tell the larger story, including the training early on, e.g. already in the intro. But then you also need to make it crystal clear, what we gain from this specific paper already, without the later future work steps.
+* Q2: No. Because of your "two step problem", you do need a bit more story telling, which is fine.
+* Q3: I am not sure if I fully understand your questions. If something is related, either in academia or the industry, you should mention it and let your reader know how you are different or why it is worthwhile that you are "doing it again". Trying something with open source resources / algorithm is for our scope totally enough as story.

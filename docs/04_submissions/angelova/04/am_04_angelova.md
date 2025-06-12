@@ -11,8 +11,10 @@ Alexander Walmsley \| a.walmsley@filmuniversitaet.de \| Film University Babelsbe
 
 ## Session 04 - Reasoning
 
+* [Session 04 - Reasoning](#session-04---reasoning)
 * [Your Paper](#your-paper)
     * [Task 04.01 - Methodology](#task-0401---methodology)
+    * [Structure](#structure)
 
 ## Your Paper
 
@@ -127,3 +129,12 @@ Every paper talks about these difficulties - so summarize them - e.g. manual ann
 __6 Conclusion__
 
 ---
+
+
+---
+Feedback Lena:
+* There is a lot of taught already there, which is great! Continue to "polish" the structure to have a functional working version.
+* You also need a "Related Work" section, discussing similar studies. If there are only few, you can merge this into the introduction.
+* Maybe have a specific section in the direction of "The Nature of Bird Songs" or "Birdsongs' Characteristics" (not good titles yet), clearly describing what you are dealing with and birdsong specifics. I think you are planning that currently under "Background", which sounds too generic as a section title. In general find as project-specific section and sub-section titles as possible.
+* In case you have a hierarchical classification, you could also use the term "taxonomy"
+* You also want an overall discussion, referring to the paper as a whole, which is currently missing

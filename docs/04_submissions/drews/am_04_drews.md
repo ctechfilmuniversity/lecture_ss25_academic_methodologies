@@ -33,3 +33,14 @@ Below is the structure I am thinking of having so far:
 
 5. **Conclusion** 
 - Summarise findings and what museums can learn from using AI in their archives
+
+
+   
+---
+Feedback Lena:
+* In papers (differently to theses) you focus on your "contributions" in the introduction, not explicitly on the research question. We will talk about this one more time in class at a later point.
+* You also need a "Related Work" section, discussing similar studies. If there are only few, you can merge this into the introduction.
+* You are always aiming for project-specific section titles. E.g., "AI-based Cultural Heritage Tools" (not a great suggestion - more meant as explanation) instead of "Literature Review".
+* 3. needs a title, also think already about sub-section title
+* You might want to merge 4. into 3. as that is the actual interesting part about the cases?
+* You also want an overall discussion, referring to the paper as a whole, which is currently missing

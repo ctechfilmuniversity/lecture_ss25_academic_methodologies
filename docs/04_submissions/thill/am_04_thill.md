@@ -81,3 +81,11 @@ Improving Fallacy Classification in Generative Models through Chain-of-Thought R
 
 * Summarize key findings.
 * Suggest directions for further research, including larger-scale evaluations, expanded fallacy taxonomies, and model fine-tuning for enhanced reasoning capabilities.
+
+
+   
+---
+Feedback Lena:
+* Rather not use the generic title of "Methodology" but some project specific term, e.g. "Fallacy Classification Improvement Pipeline".
+* In papers (differently to theses) you focus on your "contributions" in the introduction, not explicitly on the research question. We will talk about this one more time in class at a later point.
+* The structure and bullet points read well but I am a bit worried that it is too much content for a short paper. It could work but maybe already come up with a fallback plan of which part you could reduce, only describe very briefly, etc.

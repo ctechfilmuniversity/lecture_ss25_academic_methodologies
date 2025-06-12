@@ -16,7 +16,7 @@ Prof. Dr. Lena Gieseke \| l.gieseke@filmuniversitaet.de \| Film University Babel
 * [Session 03](./03_research/README.md)
 * [Session 04](./04_reasoning/README.md)
 * [Session 05](./05_qualitative/README.md)
-
+* [Session 06](./06_quantitative/README.md)
   
 
 <!--   

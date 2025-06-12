@@ -49,3 +49,14 @@ nav_exclude: true
 
 • Early evidence suggests that adaptive facade tilting can help bridge the perceptual gap between map views and physical space
 • Future work: Real-world testing with LiDAR data, mobile AR integration, and more complex urban scenes
+
+
+
+
+   
+---
+Feedback Lena:
+* If a paper only has one author, I would use "I". But the research community is divided on this question - it is up to you.
+* In papers (differently to theses) you focus on your "contributions" in the introduction, not explicitly on the research question. We will talk about this one more time in class at a later point.
+* "Proposed Technique" is too generic for a section title, use something project specific, e.g. "Adaptive Facade Tilting".
+* I would put the analysis of the user study into that section and keep the discussion more general, referring to the paper overall, which is currently missing in your discussion
