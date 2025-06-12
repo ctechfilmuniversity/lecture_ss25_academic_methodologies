@@ -94,5 +94,5 @@ Feedback Lena:
 ---
 Feedback Alex:
 - Well organised, but I also feel it is too much... Two points that I would cut out/greatly reduce/leave for a future project would be:  
-(a) “Actively collect and curate a diverse set of online debates (e.g., from YouTube, podcasts, debate platforms) to construct a real-world evaluation corpus.” - Yes but outside the scope of a paper. Better to try out on one YouTube video perhaps, or one Podcast. 
-(b) “Develop a lightweight desktop application to manage and run evaluations.” - Again, a nice idea but not core to the research and therefore outside the scope of the paper. File under future development.  
+  (a) “Actively collect and curate a diverse set of online debates (e.g., from YouTube, podcasts, debate platforms) to construct a real-world evaluation corpus.” - Yes but outside the scope of a paper. Better to try out on one YouTube video perhaps, or one Podcast.  
+  (b) “Develop a lightweight desktop application to manage and run evaluations.” - Again, a nice idea but not core to the research and therefore outside the scope of the paper. File under future development.  
