@@ -89,3 +89,10 @@ Feedback Lena:
 * Rather not use the generic title of "Methodology" but some project specific term, e.g. "Fallacy Classification Improvement Pipeline".
 * In papers (differently to theses) you focus on your "contributions" in the introduction, not explicitly on the research question. We will talk about this one more time in class at a later point.
 * The structure and bullet points read well but I am a bit worried that it is too much content for a short paper. It could work but maybe already come up with a fallback plan of which part you could reduce, only describe very briefly, etc.
+
+
+---
+Feedback Alex:
+- Well organised, but I also feel it is too much... Two points that I would cut out/greatly reduce/leave for a future project would be:  
+(a) “Actively collect and curate a diverse set of online debates (e.g., from YouTube, podcasts, debate platforms) to construct a real-world evaluation corpus.” - Yes but outside the scope of a paper. Better to try out on one YouTube video perhaps, or one Podcast. 
+(b) “Develop a lightweight desktop application to manage and run evaluations.” - Again, a nice idea but not core to the research and therefore outside the scope of the paper. File under future development.  
