@@ -138,3 +138,12 @@ Feedback Lena:
 * Maybe have a specific section in the direction of "The Nature of Bird Songs" or "Birdsongs' Characteristics" (not good titles yet), clearly describing what you are dealing with and birdsong specifics. I think you are planning that currently under "Background", which sounds too generic as a section title. In general find as project-specific section and sub-section titles as possible.
 * In case you have a hierarchical classification, you could also use the term "taxonomy"
 * You also want an overall discussion, referring to the paper as a whole, which is currently missing
+
+---
+Feedback Alex:  
+
+Very interesting. Some comments:  
+- In the "Background" section you are wondering about the best way of anchoring the project. While interesting, I would suggest that a general discussion of birdsong and its structure is too broad. One or two sentences would suffice. I don't think you need to spend too much time convincing us of the importance of birdsong analysis - assume your audience is as interesting in this topic as you, or else they probably wouldn't be reading your paper. I think the real interest of the paper is in the manual birdsong analysis vs. automatic birdsong analysis. Therefore I would advise to get into this section as quickly as possible.
+- The "Classification of Methods" section could use some development, though it sounds like you yourself also have some open questions here.
+- At the end you raise the question "Here something about creative direction?". I am not entirely sure what you mean, but it seems somewhat strange following a relatively technical paper. It depends on who you are trying to reach here: is it an audience of creative technologists who want to use birdsong in their works? Or is it ornithologists? You will not reach both, if only because there are no journals that reach both audiences (although I am not saying that there isn't any overlap!).
+
