@@ -6,8 +6,6 @@ nav_exclude: true
 
 ## Session 03 - Research
 
-## Your Paper
-
 ### Task 03.02 - Final Description
 
 #### preliminary research question

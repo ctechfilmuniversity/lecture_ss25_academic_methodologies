@@ -4,11 +4,13 @@ title: Session 01
 nav_exclude: true
 ---
 
+## Session 02 - Questions
+
 ### Task 02.01 - Question Selection
 
-## 01 - focus on model
+#### v01 - focus on model
 
-### tripod
+> tripod
 
 **Round I**
 
@@ -29,16 +31,16 @@ nav_exclude: true
 - hypothesis
   - I hypothesize that a supervised learning model trained directly on mapping text to semantic coordinates will demonstrate faster inference times and smaller file sizes than hybrid BERT+UMAP approaches, while maintaining acceptable accuracy in preserving semantic relationships.
 
-### considerations
+> considerations
 
 - broader approach indirectly incorporating the dataset generation as a resulting sub-question
 - allows to focus on the model training and performance evaluation
 - makes the paper results dependant on the (possibly very heavy) technical implementation for ml-one
 - addresses possible gap in literature (knowledge gap criteria)
 
-## 02 - focus on dataset
+#### v02 - focus on dataset
 
-### tripod
+> tripod
 
 **Round I**
 
@@ -59,7 +61,7 @@ nav_exclude: true
 - hypothesis
   - I hypothesize that combining text embeddings and dimensionality reduction techniques will yield a spatial-semantically sound structure within the dataset, useful for training in predictive modeling.
 
-### considerations
+> considerations
 
 - smaller scope (possibly too small on the technical implementation (ml-one) part)
 - more existing literature available (everything analyzing spatial structure in text data)
@@ -81,4 +83,4 @@ nav_exclude: true
 
 ### next step
 
-- [ ] paper review
+- [x] paper review

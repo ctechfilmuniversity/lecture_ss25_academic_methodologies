@@ -6,8 +6,6 @@ nav_exclude: true
 
 ## Session 04 - Reasoning
 
-## Your Paper
-
 ### Task 04.01 - Methodology
 
 ### Brainstorm
@@ -112,9 +110,9 @@ _notes on structure_<br>
 
 ### Arisen Questions
 
-- [ ] `Q01:` The main reason the dataset generation is interesting, is the ability to train predictive models based on the new set. Due to scope this will not be part of the paper so naturally this would fall under "Future Work". Does the narrative structure still make sense this way?
-- [ ] `Q02:` Intro feels disproportionate to the main content. Yes / No ?
-- [ ] `Q03:` [Nomic Atlas](https://atlas.nomic.ai/discover) as related (and inspirational) but different work ([UMAP and proprietary algorithm](https://docs.nomic.ai/atlas/embeddings-and-retrieval/dimensionality-reduction), [GitHub](https://github.com/nomic-ai/nomic)). Difference large enough? (similar (proprietary: nomic-project-v2) pipeline; result is not the visualization but new dataset) Would this rather be an Acknowledgement?
+- [x] `Q01:` The main reason the dataset generation is interesting, is the ability to train predictive models based on the new set. Due to scope this will not be part of the paper so naturally this would fall under "Future Work". Does the narrative structure still make sense this way?
+- [x] `Q02:` Intro feels disproportionate to the main content. Yes / No ?
+- [x] `Q03:` [Nomic Atlas](https://atlas.nomic.ai/discover) as related (and inspirational) but different work ([UMAP and proprietary algorithm](https://docs.nomic.ai/atlas/embeddings-and-retrieval/dimensionality-reduction), [GitHub](https://github.com/nomic-ai/nomic)). Difference large enough? (similar (proprietary: nomic-project-v2) pipeline; result is not the visualization but new dataset) Would this rather be an Acknowledgement?
 
 ---
 
