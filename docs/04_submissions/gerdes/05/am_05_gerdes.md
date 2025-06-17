@@ -10,22 +10,19 @@ nav_exclude: true
 
 ### Task 05.01 - Related Work
 
-Collect related work for your paper. List _at least_ three, ideally academic, publications that you are planning to reference in your paper. Describe briefly, how the publications are related and relevant.
-
-In case you are doing a literature review or survey list both, papers you are reviewing **and** some related work to your overall approach.
-
-_Submission_: Add references and a description of their relevance in your paper. You must use whole sentences.
-
 > selection
 
+**NOMAD Projection[^1]**
 [^1]: Duderstadt, B., Nussbaum, Z., and Maaten, L. van der. 2025. NOMAD Projection. http://arxiv.org/abs/2505.15511.
 
 One integral paper by Nomic AI explaining their approach to dimensionality reduction (DR) from dense vectors into two-dimensional entries to power their Atlas map. While this work focuses on large scale GPU-driven DR, they also provide an accompanying GitHub repository to apply the approach. This could potentially serve as a way to benchmark my own dataset and provides the foundation to differentiate my work.
 
+**Feature dimensionality reduction: a review[^2]**
 [^2]: Jia, W., Sun, M., Lian, J., and Hou, S. 2022. Feature dimensionality reduction: a review. Complex & Intelligent Systems 8, 3, 2663–2693.
 
 This paper offers a comprehensive overview of multiple DR techniques and their particular strengths and weaknesses. It can serve as a reference point to narrow down the concrete selection of models and techniques I will try myself before distilling these tests into a pipeline / framework.
 
+**Towards a comprehensive evaluation of dimension reduction methods for transcriptomic data visualization[^3]**
 [^3]: Huang, H., Wang, Y., Rudin, C., and Browne, E.P. 2022. Towards a comprehensive evaluation of dimension reduction methods for transcriptomic data visualization. Communications Biology 5, 1, 719.
 
 Expanding on [^2], this entry compares multiple approaches to DR as well. However, the evaluation criteria here are more precise while the work offers less of an overview. The used metrics here can be used as a benchmarking foundation to assess similar factors in my own resulting dataset.
