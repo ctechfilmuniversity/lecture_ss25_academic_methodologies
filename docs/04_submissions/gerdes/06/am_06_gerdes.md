@@ -40,8 +40,8 @@ As a first step I will update the keywords on structure from session 04 (introdu
     - requires a large dataset with mappings between input data (raw tokens) and reduced dimensionality (2D position for spatial relationships) [_Is the contribution non-trivial?_]
   - contributions
     - comparing selected traditional approaches to dimensionality reduction that are used for visualization of text data
-    - developing a framework for generating such a dataset mapping text tokens to 2D positions
-    - evaluating and benchmarking a dataset generated using the framework
+    - proposing a pipeline for generating such a dataset mapping text tokens to 2D positions
+    - evaluating and benchmarking a dataset generated using the pipeline
 
 > introduction
 
