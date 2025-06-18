@@ -24,29 +24,31 @@ As a first step I will update the keywords on structure from session 04 (introdu
 [_Introduction_]
 
 - _What is the problem?_
-  - visualization of spatial-semantic relationships between information
+  - visualization of spatial-semantic relationships in text data
 - _Why is the problem important?_
   - knowledge organization
-  - relate new information to existing knowledge
-    - eg. more robust retention
+  - learning
+    - relate new information to existing knowledge
+      - eg. more robust retention
 - _What has so far been done on the problem?_
   - current techniques focus on data sorting after collecting the entire data or processing incoming batches
   - need for iterative dimensionality reduction
-  - approach
-    - learning a dimensionality reduction distribution from complex pipeline (semantic embedding → dimensionality reduction)
-    - simplified supervised predictive modeling task
-    - requires a large dataset with mappings between input data (raw tokens) and reduced dimensionality (2D position for spatial relationships)
 - _What is the contribution of the paper on the problem?_\*
-  - comparing selected traditional approaches used for visualization of text data
-  - developing a framework for generating such a dataset from text data
-  - evaluating and benchmarking the resulting dataset
+  - proposed approach [_Is the contribution original?_]
+    - learning a dimensionality reduction distribution from traditional pipeline (semantic embedding → dimensionality reduction)
+    - simplified supervised predictive modeling task
+    - requires a large dataset with mappings between input data (raw tokens) and reduced dimensionality (2D position for spatial relationships) [_Is the contribution non-trivial?_]
+  - contributions
+    - comparing selected traditional approaches to dimensionality reduction that are used for visualization of text data
+    - developing a framework for generating such a dataset mapping text tokens to 2D positions
+    - evaluating and benchmarking a dataset generated using the framework
 
 > introduction
 
 ### Arisen Questions
 
 - [ ] Is _What is the contribution of the paper on the problem?_\* supposed to be the list of contributions mentioned in the script?
-- [ ] Are _Is the contribution original? Explain why…_ and _Is the contribution non-trivial? Explain why…_ sufficiently addressed? If not, how and where could that be deepened?
+- [ ] Are _Is the contribution original?_ and _Is the contribution non-trivial?_ sufficiently addressed? If not, how and where could that be deepened?
 - [ ] I found a paper[^1] by Nomic (preprint currently) where they discuss their approach to dimensionality reduction. Since their approach focuses on parallelization I think the differentiation could now be part of the _related work_ section after all. Do you agree?
 
 [^1]: Duderstadt, B., Nussbaum, Z., and Maaten, L. van der. 2025. NOMAD Projection. http://arxiv.org/abs/2505.15511.
