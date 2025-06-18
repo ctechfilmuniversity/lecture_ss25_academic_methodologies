@@ -18,7 +18,7 @@ nav_exclude: true
 2.    - **Wei et al. (2022) – [ Chain-of-Thought Prompting Elicits Reasoning in Large Language Models](https://arxiv.org/abs/2201.11903) (NeurIPS 2022)**  
         This paper introduces chain-of-thought (CoT) prompting as a method to improve the reasoning abilities of large language models across a range of complex tasks. It is highly relevant to my research, as I aim to apply CoT prompting to the specific domain of fallacy classification, with the hypothesis that intermediate reasoning steps will enhance both accuracy and interpretability.
    
-3.    - **Anonymous et al. (2024) – [When LLMs Meet Cunning Texts: A Fallacy Understanding Benchmark for Large Language Models](https://arxiv.org/abs/2402.11100) (NeurIPS D&B Workshop 2024)** 
+3.    - **Li et al. (2024) – [When LLMs Meet Cunning Texts: A Fallacy Understanding Benchmark for Large Language Models](https://arxiv.org/abs/2402.11100) (NeurIPS D&B Workshop 2024)** 
         This workshop paper proposes a new benchmark, FLUB, designed to evaluate the ability of large language models to understand and classify a diverse set of logical fallacies. It is directly relevant to my project as it provides recent empirical insights into model limitations and serves as a comparative reference point for assessing the effectiveness of CoT-based approaches.
 
 ---
@@ -42,8 +42,8 @@ nav_exclude: true
 
 ---
 
-Habernal, I., Wachsmuth, H., Gurevych, I., & Stein, B. (2018). "Before Name-Calling: Dynamics and Triggers of Ad Hominem Fallacies in Web Argumentation." 
-In *Proceedings of NAACL-HLT* (pp. 386–396).
+[Habernal, I., Wachsmuth, H., Gurevych, I., & Stein, B. (2018). "Before Name-Calling: Dynamics and Triggers of Ad Hominem Fallacies in Web Argumentation." 
+In *Proceedings of NAACL-HLT* (pp. 386–396).](https://aclanthology.org/N18-1036/)
 
 ---
 
