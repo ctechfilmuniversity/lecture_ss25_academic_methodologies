@@ -73,15 +73,18 @@ References:
 
 ## Introduction
 
-Online debates aiming at consensus-building and educating on different sides of problems are attracting the attention of an increasing number of people, but the gaps between opposing points of view still seem to grow larger as time progresses. One phenomenon that continues to nurture this widening lies in the biases each individual holds, as well as in the practice of fallacious argumentation that results from these biases. In addition to being used as a result of one’s biases, fallacious reasoning also gets used as a means of manipulation, as can be observed in many political discourses as well as in arguments across the spectrum of interpersonal exchanges. Several promising countermeasures are increasingly being developed and implemented, such as live fact-checking and ML-based approaches. While recent advancements in NLP (Natural Language Processing) have come a long way, automated fallacy detection remains a difficult task due to the context-dependent and nuanced nature of argumentative language (Jin et al., 2022). Further difficulties lie in the nature of human reasoning, which is tied to different sets of premises (presuppositions, axioms, paradigms, etc.), and in the fact that we have overlapping categories of fallacies which often undermine clear categorisation. Several existing papers are dedicated to solving these issues. Wei et al. showed that chain-of-thought reasoning can be applied within NLP to ameliorate the evaluation of different reasoning problems.
+Online debates which ostensibly aim at consensus-building and educating on different sides of problems are attracting the attention of an increasing number of people. However the gaps between opposing points of view still seem to grow larger as time progresses. One phenomenon that continues to nurture this widening lies in the biases each individual holds, as well as in the practice of fallacious argumentation that results from these biases. In addition to that, fallacious reasoning also gets used as a means of manipulation, as can be observed for instance in many political discourses. Several promising countermeasures are increasingly being developed and implemented, such as live fact-checking and ML-based approaches. While recent advancements in NLP (Natural Language Processing) have come a long way, automated fallacy detection remains a difficult task due to the context-dependent and nuanced nature of argumentative language (Jin et al., 2022). Further difficulties lie in the nature of human reasoning, which is tied to different sets of premises (presuppositions, axioms, paradigms, etc.), and in the fact that we have overlapping categories of fallacies which often undermine clear differentiation. Several existing papers are dedicated to solving these issues. Wei et al. showed that chain-of-thought reasoning can be applied within NLP to improve the evaluation of different reasoning problems. 
 
-In summary, this paper makes the following contributions:
+In light of this background, this paper makes the following contributions:
 
-* A case study in which findings from research on chain-of-thought prompting are applied to the evaluation of *X* real-world examples of a specific form of debate.
+* A case study in which findings from research on chain-of-thought prompting are applied to the evaluation of a real-world example of an online debate.
 * The results are cross-referenced with expert analysis.
-* Further tuning of CoT prompting is proposed, tailored to the case study.
+* Further tuning of CoT prompting is proposed, tailored to the specific case study.
+* A critical reflection on how existing benchmarks such as FLUB and MAFALDA can fall short when applied to spontaneous, real-world discourse.
 
-...to be corrected and finished
+The experiments presented aim to provide insight into how reasoning-based prompting can affect the performance of large language models. While related work has explored this topic at scale, prior studies have primarily focused on performance within controlled benchmarks rather than on real-world applicability. In doing so, this paper bridges the gap between benchmark-driven evaluation and the complex realitites of public discourse, offering a template for future experiments in this field.
+
+
 
 ## References
 
