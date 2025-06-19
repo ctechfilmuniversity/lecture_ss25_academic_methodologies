@@ -24,7 +24,7 @@ Alexander Walmsley \| a.walmsley@filmuniversitaet.de \| Film University Babelsbe
 
 ### Task 07.01 - Next Steps
 
-By now the storyline of your paper should be well established and should have a good command of what needs to be done.  
+By now the storyline of your paper should be well established and you should have a good command of what needs to be done.  
   
 Plan the next steps to finish the paper. In which order do you want to do what? Which dependencies do you have between writing and "executing the research"? Develop a roadmap for completing the paper.  
   
@@ -53,4 +53,4 @@ nav_exclude: true
 
 ---
   
-**Happy Experimenting!**
+**Happy Artisticing!**
