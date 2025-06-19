@@ -1,3 +1,9 @@
+---
+layout: default
+title: Homework
+nav_exclude: true
+---
+
 ## Task 5: **Qualitative Research and Analysis**
 
 **Research question**
