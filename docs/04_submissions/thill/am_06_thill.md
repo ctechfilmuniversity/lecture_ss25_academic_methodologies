@@ -1,10 +1,9 @@
-```
 ---
 layout: default
 title: Homework
 nav_exclude: true
 ---
-```
+
 
 # 06.01 Introduction
 
