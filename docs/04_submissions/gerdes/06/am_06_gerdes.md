@@ -8,15 +8,6 @@ nav_exclude: true
 
 ### Task 06.01 - Introduction
 
-Write the introduction for your paper. You do not need to re-use this introduction later for your actual paper - but you should! You can re-cap in [Chapter - Academic Writing](../../02_scripts/am_03_writing_script.md#the-introduction) what the introduction is about.
-
-**Do not use a GenAi Tool for this task, as it is about practicing to write.**  
-After all learning to write, is learning to think...
-
-_Submission_: Your introduction - no need to use the paper template yet but you can make the submission with a markdown file.
-
----
-
 > structuring
 
 As a first step I will update the keywords on structure from session 04 (introduction section only):
