@@ -8,16 +8,6 @@ nav_exclude: true
 
 ### Task 07.01 - Next Steps
 
-By now the storyline of your paper should be well established and you should have a good command of what needs to be done.
-
-Plan the next steps to finish the paper. In which order do you want to do what? Which dependencies do you have between writing and "executing the research"? Develop a roadmap for completing the paper.
-
-_Hint_: We recommend that you also add a timeline but this is not a requirement.
-
-_Submission_: Your roadmap to paper completion.
-
----
-
 > These To-Dos will be further be further refined and added to the [roadmap](https://knoto.whatphilipdoes.com/roadmap/) for `knoto` as my project timeline. That version will be updated to adjust for any changes.
 
 The tasks are in order of execution.
