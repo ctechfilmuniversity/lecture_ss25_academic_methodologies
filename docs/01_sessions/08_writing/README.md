@@ -17,7 +17,7 @@ Alexander Walmsley \| a.walmsley@filmuniversitaet.de \| Film University Babelsbe
 * [Session 08 - Writing](#session-08---writing)
 * [Writing](#writing)
 * [Your Paper](#your-paper)
-    * [Task 07.01 - Next Steps](#task-0701---next-steps)
+    * [Task 08.01 - LaTeX Environment](#task-0801---latex-environment)
 
 
 ## Writing
@@ -30,15 +30,12 @@ We highly recommend that you go over the Academic Writing script in detail one m
 
 ## Your Paper
 
-### Task 07.01 - Next Steps
+### Task 08.01 - LaTeX Environment
 
-By now the storyline of your paper should be well established and you should have a good command of what needs to be done.  
+Download the [paper template](../01_introduction/acsfubPublStyle_2025.zip) and set up your LaTeX environment. Clean out the placeholder text and bibliography and transfer your paper structure and related work to the LaTeX file. 
   
-Plan the next steps to finish the paper. In which order do you want to do what? Which dependencies do you have between writing and "executing the research"? Develop a roadmap for completing the paper.  
   
-*Hint*: We recommend that you also add a timeline but this is not a requirement.  
-  
-*Submission*: Your roadmap to paper completion.  
+*Submission*: A pdf of the current status of your paper as `am_XX_lastname.pdf` . A low resolution pdf is sufficient, please compress the pdf in case the file size is rather large. 
 
 
   
