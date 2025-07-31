@@ -1,13 +1,13 @@
 ---
 layout: default
-title: Session
+title: Session 09
 nav_exclude: true
 ---
 
-
 **Academic Methodologies**
   
-Prof. Dr. Lena Gieseke \| l.gieseke@filmuniversitaet.de \| Film University Babelsberg KONRAD WOLF
+Prof. Dr. Lena Gieseke \| l.gieseke@filmuniversitaet.de \| Film University Babelsberg KONRAD WOLF  
+Alexander Walmsley \| a.walmsley@filmuniversitaet.de \| Film University Babelsberg KONRAD WOLF  
 
 
 ## The Paper
@@ -24,6 +24,25 @@ You find all information in [Chapter 01 - ACS FUB](../../02_scripts/am_01_confer
 
 
 ![folks](img/folks.png)
+
+
+  
+
+---
+  
+Answer all questions directly in a copy of this file. Submit your copy as `am_XX_lastname.md` in your submissions folder (replace the XX with the number of the session). 
+  
+
+Please add the following header at the beginning of your Markdown file:
+
+```md
+---
+layout: default
+title: Homework
+nav_exclude: true
+---
+```
+  
 
 
 ---
