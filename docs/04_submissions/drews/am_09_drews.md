@@ -4,7 +4,7 @@ title: Homework
 nav_exclude: true
 ---
 
-## **The Paper**
+## Task 09.01 - The Paper
 
 - How would you rate the difficulty of this lecture from 1 (far too easy) to 5 (far too difficult)?
 
