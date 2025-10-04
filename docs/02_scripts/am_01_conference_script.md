@@ -111,7 +111,7 @@ All deadlines (all dates 20:00 GMT) are hard. Late submissions are not accepted.
 * 12.09.25: Paper Due
 * 15.09.25: Review Start
 * 30.09.25: Review Due
-* tba: Author Notification
-* tba: Conference
+* 04.10.25: Author Notification
+* 16. & 17.10.25: Conference
   
 
