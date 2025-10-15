@@ -98,9 +98,20 @@ The reviews might give revisions and these must be considered in the final camer
 
 ### Presentation Schedule
 
-| Time | Presenter | Topic |
-| ---- | --------- | ----- |
-|      |           |       |
+
+| Time            | Presenter                      | Topic                                                                                                                 |
+| --------------- | ------------------------------ | --------------------------------------------------------------------------------------------------------------------- |
+| 16.10.25. 10:00 | Gorm Labenz                    | Adaptive façade-tilted bird’s-eye view                                                                                |
+| 16.10.25. 10:40 | Aydin Thill                    | Fallacy Classification on the MAFALDA Benchmark with GPT-4o: An Evaluation of Chain-of-Thought and Few-Shot Prompting |
+| 16.10.25. 11:20 | Sophie Bunge                   | Subtextual Intelligence: Enhancing Emotional Intelligence for Text-based Chatbots using Stanislavski’s acting theory  |
+| 16.10.25. 13:00 | David Leonardo Pirazan Palomar | The Ceiba tree: An expansive blossoming of dramaturgical structures for audiovisual expression.                       |
+| 16.10.25. 13:40 | Marta Tung Tung Pang           | Formal versus Informal Mindfulness Practice: Exploring the Technological Gap and Future Research Directions           |
+| 16.10.25. 14:40 | Philip Gerdes                  | Towards On-Device Continual Learning: A Pipeline for Generating Spatial Coordinate Datasets from Text Embeddings      |
+| 16.10.25. 15:30 | Galina Angelova                | Computational Birdsong Analysis: From Biological Foundations to Current Methods                                       |
+| 17.10.25. 10:00 | Aljoša Dakić                   | Repurposing Lighting Console Effect Engines as Parameter Sources for TouchDesigner Visuals                            |
+| 17.10.25. 10:40 | Joel Schäfer                   | TD-ML: A Machine Learning Toolkit for Real-Time Audiovisual Performance and Installation                              |
+| 17.10.25. 11:20 | Imogen Drews                   | Slow by Design: Exploring How Museum Apps Can Cultivate Sustained Attention                                           |
+
 
 
 ## Deadlines
@@ -111,7 +122,7 @@ All deadlines (all dates 20:00 GMT) are hard. Late submissions are not accepted.
 * 12.09.25: Paper Due
 * 15.09.25: Review Start
 * 30.09.25: Review Due
-* tba: Author Notification
-* tba: Conference
+* 04.10.25: Author Notification
+* 16. & 17.10.25: Conference
   
 
